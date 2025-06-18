@@ -1,0 +1,314 @@
+\documentclass{article.cls}
+\usepackage[utf8]{inputenc}
+\usepackage{array,longtable,geometry}
+\geometry{margin=1in}
+
+\begin{document}
+
+% ==========================
+% LLM Comparison Matrix
+% ==========================
+    \section{LLM Comparison Matrix}
+% A comparison of prominent large language models (LLMs) for Level-0 IT support chatbot
+    \begin{longtable}{|>{\raggedright}p{3cm}|>{\raggedright}p{3cm}|>{\raggedright}p{3cm}|>{\raggedright}p{3cm}|>{\raggedright\arraybackslash}p{3cm}|}
+        \hline
+        \textbf{Criteria} & \textbf{GPT-4 (OpenAI)} & \textbf{Claude (Anthropic)} & \textbf{LLaMA 2 (Meta/HF)} & \textbf{Mistral (Mistral AI)} \\
+        \hline
+        Provider & OpenAI (USA, commercial) & Anthropic (USA, commercial) & Meta / Hugging Face (open-source via license) & Mistral AI (France, open-source) \\
+        \hline
+        Model Types & GPT-4 family (proprietary) & Claude 3 family (Proprietary) & LLaMA 2 family (7B, 13B, 70B, open) & Mistral family (7B, 8x7B mixture, open) \\
+        \hline
+        Release & 2023 (GPT-4o in 2023) & 2023 (Claude 3, etc.) & 2023 (LLaMA 2 series) & 2023 (Mistral 7B, Mixtral) \\
+        \hline
+        Key Strengths & \textit{Top-tier generalist}: highest accuracy and reasoning on broad tasks (creative writing, coding, multi-modal):contentReference[oaicite:0]{index=0}. Integrated in many tools (Copilot, ChatGPT). & \textit{Long-context \& safety}: excels at summarization, instruction-following and safe outputs (trained with Constitutional AI):contentReference[oaicite:1]{index=1}. Good with large documents. & \textit{Open and customizable}: strong baseline NLP performance given parameters. Free for research/commercial use:contentReference[oaicite:2]{index=2}. Fine-tunable by developers. & \textit{Efficiency \& open}: highly efficient inference (reportedly 1,000 words/sec on open-source engine):contentReference[oaicite:3]{index=3}. Good performance for its size. Suitable for on-prem deployment. \\
+        \hline
+        Performance & Very high (often leads benchmarks, excels in coding and reasoning):contentReference[oaicite:4]{index=4}. & High (comparable to GPT-4 in many tasks, especially summarization):contentReference[oaicite:5]{index=5}. & Moderate to high (70B close to GPT-4 performance on many tasks, smaller sizes less so):contentReference[oaicite:6]{index=6}. & Moderate to high (Mistral 7B often outperforms larger LLaMAs on some benchmarks):contentReference[oaicite:7]{index=7}:contentReference[oaicite:8]{index=8}. \\
+        \hline
+        Latency / Speed & \textit{Slower inference}: large model size and cloud overhead can cause higher latency. Occasional delays reported:contentReference[oaicite:9]{index=9}. & \textit{Moderate}: large model with long context is slower. & \textit{Variable}: smaller (7B/13B) models can run quickly on suitable hardware; larger (70B) is slower unless optimized. & \textit{Fast inference}: optimized for efficiency on modern hardware, supports fast response (report claims very low latency):contentReference[oaicite:10]{index=10}. \\
+        \hline
+        Cost & High (proprietary API pricing; e.g. GPT-4 costs \$0.03\textendash\$0.06 per 1K tokens):contentReference[oaicite:11]{index=11}. Requires paid subscription or API usage. & High (proprietary API, similar cost profile, Anthropic Claude pricing is comparable). & Low (models are free; only cost is compute for hosting/fine-tuning). & Low (open and free; cost is compute/infrastructure only). \\
+        \hline
+        Integration Ease & Very easy (well-documented API and SDKs; integrated in many platforms). Broad tool support. & Easy (API available; some integration similar to GPT). & Moderate (no official cloud API; requires model hosting or use via Hugging Face or private infrastructure). & Moderate to easy (open models available via Hugging Face/Ollama; can be self-hosted or via community APIs). \\
+        \hline
+        Customization & Limited (no direct fine-tuning by users; can only prompt-engineer). Fine-tune options limited compared to open models. & Limited (no user fine-tuning; customize via prompts only). & High (full fine-tuning and prompt-tuning allowed under license; can adapt to domain data)[oaicite:12]{index=12}. & High (open-source; supports fine-tuning or adapter methods on private data). \\
+        \hline
+        Deployment & Cloud only (OpenAI API, Azure). No on-premise solution. & Cloud only (Anthropic API). No on-premise. & Flexible (can run on local servers, cloud, or edge; supports embedded runtimes)[oaicite:13]{index=13}. & Flexible (open, can run locally or on cloud; designed for edge and on-prem use)[oaicite:14]{index=14}. \\
+        \hline
+        Data Privacy & Low (data is sent to OpenAI; sensitive info depends on trust, but OpenAI does not use data for training by default). No complete control. & Low (data sent to Anthropic; similar privacy caveats as other cloud APIs). & High (can be hosted locally; data never leaves organization). & High (fully open-source; can deploy on-premise to keep data private)[oaicite:15]{index=15}. \\
+        \hline
+        Context Window & Up to 128K tokens (GPT-4o), enabling very long inputs. & Very large (200K tokens, excellent for lengthy documents)[oaicite:16]{index=16}. & Standard (4096 tokens for base models; some Llama-2 derivatives now support 32K). & Moderate (depends on variant; e.g. Mixtral 8x7B supports long context ~32K). \\
+        \hline
+        Support / Community & Very extensive (large user base, many examples, continuous updates). & Growing (enterprise focus, but fewer community tools than OpenAI). & Large (open-source community, many forks and tools available). & Growing (new but active; open models available on Hugging Face; French-based ecosystem support). \\
+        \hline
+    \end{longtable}
+
+% ==========================
+% Project Proposal Section
+% ==========================
+    \section{Project Proposal}
+
+    \subsection{Project Summary}
+    The project aims to develop an AI-powered chatbot for \textbf{Level-0 IT support} at The University. Level-0 (Tier 0) support provides \textit{self-serve} IT solutions such as FAQs, knowledge bases, and automated chatbots[oaicite:17]{index=17}. The chatbot will answer routine technical questions (e.g., password resets, network access, software installation) using natural language understanding and a connected knowledge base. Automating these tasks is expected to reduce helpdesk load and improve user satisfaction by providing instant, 24/7 assistance[oaicite:18]{index=18}[oaicite:19]{index=19}.
+
+    \subsection{Objectives}
+    \begin{itemize}
+        \item \textbf{Automate Routine Queries:} Enable students and staff to get immediate answers to common IT issues (password resets, email setup, Wi-Fi connection, etc.) without human intervention[oaicite:20]{index=20}[oaicite:21]{index=21}.
+        \item \textbf{Reduce Helpdesk Burden:} Decrease the volume of tickets reaching Level-1 support by resolving simple problems at Level-0, allowing IT staff to focus on complex cases[oaicite:22]{index=22}[oaicite:23]{index=23}.
+        \item \textbf{Improve User Experience:} Provide a friendly, conversational interface accessible 24/7, reducing wait times and improving the campus IT support experience[oaicite:24]{index=24}[oaicite:25]{index=25}.
+        \item \textbf{Maintain Data Privacy:} Ensure that all user data remains secure, by choosing appropriate LLM models and deployment strategies (on-premise vs cloud) that comply with privacy requirements.
+        \item \textbf{Scalable Solution:} Design the system so it can be extended to cover additional universities or new use cases in the future.
+    \end{itemize}
+
+    \subsection{Scope and Use Cases}
+    \textbf{Scope:} The initial scope is limited to \textbf{Level-0 (Tier 0)} IT support tasks at The University. This includes frequently asked questions and straightforward tasks such as:\newline
+    \hfill\break
+    \begin{itemize}
+        \item Password resets and account unlocks (AD/portal accounts).
+        \item Email configuration and access (campus email, mobile sync).
+        \item Network access troubleshooting (Wi-Fi setup, VPN access).
+        \item Software usage queries (available licensed software, installation steps).
+        \item Campus service guides (printing services, library login).
+    \end{itemize}
+    \noindent Non-critical administrative tasks like course registration or financial matters are \textit{out of scope}. Complex issues beyond basic guidance will be escalated to human support.
+
+    \textbf{Use Cases:} The project will document specific Level-0 use cases (50 in total; see Section~\ref{sec:usecases}) covering categories like \textit{Account Management, Networking, Email, Printing, Software, Hardware} and \textit{Security}. Each use case includes sample user utterances, preconditions, success flow, alternate flow, postconditions, etc., ensuring comprehensive coverage of anticipated queries.
+
+    \subsection{Data Collection and Preparation}
+    The chatbot\rqs knowledge will come from The existing resources and additional training data:
+    \begin{itemize}
+        \item \textbf{Knowledge Base Extraction:} Gather FAQs, help articles, and documentation from the university\rqs IT website, manuals, and internal support wiki.
+        These will be structured into Q\&A pairs.
+        \item \textbf{Support Logs and Transcripts:} (If available,) Collect anonymized chat logs or ticket transcripts of common inquiries to fine-tune the LLM on realistic user language and context.
+        \item \textbf{General IT Support Corpus:} Augment with publicly available tech support forums or knowledge bases (e.g., Microsoft support, antivirus FAQs) for broader context.
+        \item \textbf{Preprocessing:} Clean and format text data (remove irrelevant info, unify formatting). Tag conversational turns if using dialogue data. Extract intents and entities if using an Rasa-like pipeline.
+    \end{itemize}
+    The data will be split into training and validation sets if fine-tuning an open model; otherwise, used as context sources for retrieval-augmented generation.
+
+    \subsection{Functional Requirements}
+    \begin{itemize}
+        \item \textbf{Natural Language Interface:} Understand user queries in text (English).\ Support clarification questions for ambiguous requests.
+        \item \textbf{Accurate Responses:} Provide correct, concise answers.
+        For list-style answers (e.g., steps to connect Wi-Fi), respond with clear bullet points or numbered lists.
+        \item \textbf{Knowledge Integration:} Access the IT knowledge base (via embeddings or retrieval) to ground responses and avoid hallucinations. Cite relevant policy or help page when possible.
+        \item \textbf{Authentication:} Optionally verify user identity for personalized data (e.g., check login status before revealing account info).
+        \item \textbf{Escalation Mechanism:} Detect when a query cannot be answered (out of scope or uncertain).\ In such cases, politely suggest submitting a support ticket to Tier-1 staff.
+        \item \textbf{Multi-platform Access:} Deploy on university channels (website chatbot, Microsoft Teams, or Slack).
+    \end{itemize}
+
+    \subsection{Non-Functional Requirements}
+    \begin{itemize}
+        \item \textbf{Performance:} Responses should be delivered within 1--2 seconds of user input.\ The backend should support concurrent conversations.
+        \item \textbf{Reliability:} Uptime should be high (target 99\%). Gracefully handle downtime or model errors by displaying an apology and forwarding to human support.
+        \item \textbf{Security \& Privacy:} Use secure protocols (HTTPS) for data in transit.\ If using cloud APIs (e.g., GPT-4), ensure compliance with privacy policies; consider an open-source model on local servers for sensitive data.
+        \item \textbf{Maintainability:} Code should be modular (separate NLP pipeline, retrieval, and UI layers).
+        Configuration and thresholds should be easy to update (e.g., adjust confidence cutoffs).
+        \item \textbf{Scalability:} The architecture should allow scaling out (e.g., adding more GPU workers or fallback to larger LLM) as usage grows.
+    \end{itemize}
+
+    \subsection{Methodology and Timeline}
+    We will follow an Agile development approach, breaking work into weekly sprints.\ The plan for Milestone 1 (6 weeks) is:
+    \begin{enumerate}
+        \item \textbf{Week 1--2:} \textit{ Research \& Planning.} Finalize a use case list.\ Review state-of-art LLM options and decide on initial architecture.
+        Prepare project documentation (this report).
+        \item \textbf{Week 3-4:} \textit{Data Gathering \& Prototyping.} Collect IT support Q\&A data.
+        Set up development environment and test an initial LLM (e.g., GPT-3.5/GPT-4 or LLaMA 2) on sample queries.
+        \item \textbf{Week 5:} \textit{Prototype Implementation.} Build a minimal working demo: simple chat interface that routes queries to the chosen LLM/API and returns answers. Start integrating a small knowledge base.
+        \item \textbf{Week 6:} \textit{Evaluation \& Documentation.} Evaluate early responses for correctness. Document design decisions. Complete Milestone-1 deliverables (this project report, use case table, LLM comparison).
+    \end{enumerate}
+    Subsequent milestones will focus on iterative improvement (fine-tuning models, enriching data, user testing).
+
+    \subsection{Resources and Tools}
+    \begin{itemize}
+        \item \textbf{Models/API:} OpenAI GPT-4 (via API) or Anthropic Claude for initial tests. Consider Meta\rqs LLaMA 2 or Mistral 7B if on-prem deployment is needed for privacy.
+        \item \textbf{Infrastructure:} Python for backend (e.g., using FastAPI/Flask). If self-hosting LLaMA/Mistral, NVIDIA GPUs (e.g., A100 or 3090). Cloud alternatives (Azure, AWS) for scalable compute.
+        \item \textbf{Libraries:} LangChain or Haystack for retrieval-augmented generation, Hugging Face Transformers, OpenAI/Anthropic SDK, Rasa (optional) for dialogue management.
+        \item \textbf{Knowledge Base:} The University IT documentation (if available), Confluence/SharePoint pages, and public IT knowledge sources (e.g., Zendesk articles[oaicite:26]{index=26}).
+        \item \textbf{Collaboration Tools:} GitHub for version control, Jira or Trello for task tracking, Slack/Teams for communication.
+    \end{itemize}
+
+    \subsection{Backend Implementation Plan}
+    The chatbot backend will consist of:
+    \begin{itemize}
+        \item \textbf{API Layer:} Expose endpoints for sending user queries and retrieving answers. Implement chat session management.
+        \item \textbf{NLP Engine:} Interface with the chosen LLM (e.g., call OpenAI API or a local Hugging Face model). Process and format the response.
+        \item \textbf{Knowledge Retrieval:} If not relying solely on LLM, include an embedding-based search over the IT KB to find relevant articles. Use RAG (Retrieve and Generate) to ground answers.
+        \item \textbf{Database:} (Optional) Store conversation logs, user preferences, or any escalations.
+        \item \textbf{Integration Layer:} Connect to campus authentication (if checking user identity) and to existing helpdesk systems (for ticket creation if needed).
+    \end{itemize}
+
+    \subsection{Risk Assessment}
+    \begin{itemize}
+        \item \textbf{Incorrect Answers (Hallucinations):} LLMs can generate plausible but wrong info. Mitigation: tightly constrain the domain (Level-0 tasks), use knowledge base for factual backup, and mark uncertain cases for human review.
+        \item \textbf{Privacy Concerns:} Using cloud-based LLMs risks exposing user queries. Mitigation: use an open-source model (like LLaMA 2 or Mistral) on secure servers, or ensure API contracts prevent data misuse.
+        \item \textbf{Data Limitations:} If historical query logs are scarce, the model may lack training data. Mitigation: rely on general IT support knowledge and iteratively refine the bot with real usage feedback.
+        \item \textbf{User Adoption:} Users might mistrust or underuse a new bot. Mitigation: emphasize convenience and accuracy, provide easy fallback to human support, and gather user feedback early.
+        \item \textbf{Technical Integration:} Chatbot integration (with existing systems or communication tools) may be complex. Mitigation: allocate time for prototyping connectors (e.g., testing Microsoft Teams bot framework).
+    \end{itemize}
+
+    \subsection{Milestone 1 Deliverables}
+    By the end of Milestone 1, we will deliver:
+    \begin{itemize}
+        \item This \textbf{Milestone 1 Project Report} (documentation of plan and findings).
+        \item A completed \textbf{LLM Comparison Matrix} (Table above) with cited pros/cons for candidate models.
+        \item A \textbf{Use Case Documentation Template} and the \textbf{full table of 50 Level-0 IT support use cases} (Section~\ref{sec:usecases}), detailing ID, title, flows, etc.
+        \item A \textbf{prototype implementation}: a simple chatbot demo to validate the chosen approach (optional, if feasible within the timeline).
+        \item A \textbf{project schedule and timeline} for subsequent milestones.
+    \end{itemize}
+
+% ==========================
+% Use Case Documentation Template and Table
+% ==========================
+    \section{Use Case Documentation}
+    \label{sec:usecases}
+% Use Case Template (fields)
+    Each use case below follows a standard template with the fields: \textbf{ID}, \textbf{Category}, \textbf{Title}, \textbf{Sample Utterances}, \textbf{Preconditions}, \textbf{Main Success Flow}, \textbf{Alternative Flows}, \textbf{Postconditions}, \textbf{Priority}, and \textbf{Estimated Frequency}. The use cases focus on common Level-0 IT support scenarios.
+
+
+    \begin{longtable}{|c|c|p{3.5cm}|p{6.5cm}|}
+        \hline
+        \textbf{ID} & \textbf{Category} & \textbf{Title} & \textbf{Sample Utterance(s)} \\
+        \hline
+        UC001 & Authentication \& Access & Password Reset & "I forgot my password." \\
+        \hline
+        UC002 & Authentication \& Access & Account Lockout & "My account is locked after multiple failed login attempts." \\
+        \hline
+        UC003 & Authentication \& Access & MFA Setup & "How do I enable two-factor authentication?" \\
+        \hline
+        UC004 & Authentication \& Access & VPN Access Issues             & "I can\rqt connect to the campus VPN." \\
+        \hline
+        UC005 & Connectivity \& Network  & Wi-Fi Connectivity            & "My laptop won\rqt connect to campus Wi-Fi." \\
+        \hline
+        UC006 & Connectivity \& Network  & Network Drive Access          & "I can\rqt access the shared network drive." \\
+        \hline
+        UC007 & Connectivity \& Network & Email Configuration & "How do I set up Outlook with my university email?" \\
+        \hline
+        UC008 & Connectivity \& Network & Remote Desktop Issues & "Remote Desktop Connection is not working." \\
+        \hline
+        UC009 & Software \& Applications & Software Installation & "How do I install approved software like MATLAB?" \\
+        \hline
+        UC010 & Software \& Applications & Application Crashes & "Moodles keeps freezing." \\
+        \hline
+        UC011 & Software \& Applications & License Activation & "My software license expired." \\
+        \hline
+        UC012 & Software \& Applications & Browser Issues & "Chrome is slow or not loading pages." \\
+        \hline
+        UC013 & Software \& Applications & Updates \& Patches & "How do I check for OS/software updates?" \\
+        \hline
+        UC014 & Hardware \& Peripherals  & Printer Troubleshooting       & "The library printer isn\rqt responding." \\
+        \hline
+        UC015 & Hardware \& Peripherals  & Peripheral Device Issues      & "My external monitor isn\rqt working." \\
+        \hline
+        UC016 & Security \& Compliance & Phishing/Suspicious Emails & "I received a suspicious email—what should I do?" \\
+        \hline
+        UC017 & Security \& Compliance & Antivirus Alerts & "My antivirus flagged a file—is it safe?" \\
+        \hline
+        UC018 & Collaboration \& Tools & Meeting Setup & "How do I schedule a Zoom meeting?" \\
+        \hline
+        UC019 & Collaboration \& Tools & File Recovery & "I accidentally deleted a file—how do I restore it?" \\
+        \hline
+        UC020 & Collaboration \& Tools & Shared Resource Access & "I need access to the SharePoint folder." \\
+        \hline
+        UC021 & Connectivity \& Network & Mobile Wi-Fi Setup & "How do I connect my phone to campus Wi-Fi?" \\
+        \hline
+        UC022 & Connectivity \& Network & Mobile Printing & "How do I print from my phone to the library printer?" \\
+        \hline
+        UC023 & Software \& Applications & Mobile Email Configuration & "How do I set up my university email on my phone?" \\
+        \hline
+        UC024 & Software \& Applications & LMS Mobile App Issues & "The Moodle mobile app won’t load my courses." \\
+        \hline
+        UC025 & Hardware \& Peripherals & Laptop Battery Health & "My laptop battery drains too fast—what can I do?" \\
+        \hline
+        UC026 & Hardware \& Peripherals & Audio Device Troubleshooting & "My microphone isn’t working in Teams." \\
+        \hline
+        UC027 & Hardware \& Peripherals  & Webcam Connectivity           & "The webcam isn\rqt detected by Zoom." \\
+        \hline
+        UC028 & Security \& Compliance & Password Expiry Notification & "I got a warning my password will expire soon—how to extend?" \\
+        \hline
+        UC029 & Security \& Compliance & Security Patch Information & "How do I install the latest security updates?" \\
+        \hline
+        UC030 & Authentication \& Access & Username Recovery & "I forgot my username—how can I recover it?" \\
+        \hline
+        UC031 & Collaboration \& Tools & Shared Calendar Access & "I can’t see the department calendar—can you grant access?" \\
+        \hline
+        UC032 & Collaboration \& Tools & OneDrive Access & "Why can’t I access my OneDrive files?" \\
+        \hline
+        UC033 & Collaboration \& Tools & Teams Chat History & "How do I retrieve old Teams messages?" \\
+        \hline
+        UC034 & Collaboration \& Tools & File Sharing Permissions & "I don’t have edit rights on a shared document." \\
+        \hline
+        UC035 & Software \& Applications & PDF Reader Problems & "Acrobat Reader keeps crashing on PDFs." \\
+        \hline
+        UC036 & Software \& Applications & Virtual Lab Access & "I can’t access the virtual lab environment." \\
+        \hline
+        UC037 & Hardware \& Peripherals & Projector Connectivity & "The classroom projector won’t connect to my laptop." \\
+        \hline
+        UC038 & Hardware \& Peripherals & Smart Classroom Controls & "The smart board touchscreen isn’t responding." \\
+        \hline
+        UC039 & Connectivity \& Network & IP Address Assignment & "My device isn’t getting an IP address on the network." \\
+        \hline
+        UC040 & Connectivity \& Network & DNS Resolution Issues & "I can’t reach the university website—DNS error." \\
+        \hline
+        UC041 & Hardware \& Peripherals & Headset Configuration & "How do I set up my headset for Teams calls?" \\
+        \hline
+        UC042 & Software \& Applications & VPN Client Update & "How do I update the VPN client on my laptop?" \\
+        \hline
+        UC043 & Connectivity \& Network & Network Printer Driver & "Why is my computer not finding the printer driver?" \\
+        \hline
+        UC044 & Collaboration \& Tools & Canvas Access & "I can’t access my course on Canvas." \\
+        \hline
+        UC045 & Security \& Compliance & Security Policy Clarification & "What are the password complexity requirements?" \\
+        \hline
+        UC046 & Authentication \& Access & SSO Logout Issues & "Why am I still logged in after signing out?" \\
+        \hline
+        UC047 & Software \& Applications & Microsoft Teams Plugin & "How do I install the Teams integration in Outlook?" \\
+        \hline
+        UC048 & Collaboration \& Tools & Video Conferencing Setup & "How do I join a Zoom meeting with the conference room system?" \\
+        \hline
+        UC049 & Hardware \& Peripherals & Docking Station Connectivity & "My laptop won’t recognize the docking station." \\
+        \hline
+        UC050 & Software \& Applications & Antivirus Definition Update & "How do I manually update antivirus definitions?" \\
+        \hline
+        UC051 & Authentication \& Access & CAS Login Loop & "Why do I keep getting redirected back to the login page?" \\
+        \hline
+        UC052 & Authentication \& Access & NetID Activation & "How do I activate my NetID for the first time?" \\
+        \hline
+        UC053 & Authentication \& Access & Session Timeout & "Why was I logged out suddenly?" \\
+        \hline
+        UC054 & Connectivity \& Network & Eduroam Configuration & "How do I connect to Eduroam Wi-Fi?" \\
+        \hline
+        UC055 & Connectivity \& Network & Bandwidth Monitoring & "Can I see how much data I'm using on campus Wi-Fi?" \\
+        \hline
+        UC056 & Software \& Applications & SPSS License Help & "SPSS is asking for a license key—what should I do?" \\
+        \hline
+        UC057 & Software \& Applications & Zoom Recording Access & "Where can I find my Zoom recordings?" \\
+        \hline
+        UC058 & Hardware \& Peripherals & Computer Lab Issues & "The keyboard in the lab isn't working." \\
+        \hline
+        UC059 & Hardware \& Peripherals & USB Device Not Recognized & "My flash drive isn’t showing up." \\
+        \hline
+        UC060 & Collaboration \& Tools & Shared Drive Quota & "My Google Drive says it's full—what can I do?" \\
+        \hline
+        UC061 & Security \& Compliance & Login Attempt Alerts & "I received a login alert I don't recognize." \\
+        \hline
+        UC062 & Security \& Compliance & Data Encryption Policy & "Do I need to encrypt my files before sharing?" \\
+        \hline
+        UC063 & Security \& Compliance & Public Wi-Fi Safety & "Is it safe to use public Wi-Fi at the library?" \\
+        \hline
+        UC064 & Software \& Applications & RDP Shortcut Setup & "How do I create a shortcut to my remote desktop?" \\
+        \hline
+        UC065 & Collaboration \& Tools & Meeting Room Booking & "How do I reserve a conference room?" \\
+        \hline
+        UC066 & Software \& Applications & SSH Access Setup & "How do I SSH into the university servers?" \\
+        \hline
+        UC067 & Connectivity \& Network & Port Activation Request & "How can I request a network port in my office?" \\
+        \hline
+        UC068 & Hardware \& Peripherals & Screen Resolution Issues & "My display resolution is wrong—how do I fix it?" \\
+        \hline
+        UC069 & Collaboration \& Tools & Google Workspace Access & "How do I access Google Docs using my university email?" \\
+        \hline
+        UC070 & Software \& Applications & Email Signature Configuration & "How do I set up an email signature in Outlook?" \\
+        \hline
+        \caption{Level 0 IT Support Use Cases for The University}
+    \end{longtable}
+
+\end{document}

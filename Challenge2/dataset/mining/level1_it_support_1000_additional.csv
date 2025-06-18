@@ -1,0 +1,1000 @@
+Software Support,"Moodle plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Device Support,Why isn't my Confluence camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Account & Access,"I forgot my Outlook password, how do I recover it?","To recover your Outlook password, visit the self-service portal and follow the recovery steps."
+General Queries,Where can I find the Slack API documentation?,Visit the developer portal's API section and search for Slack docs.
+Email & Communication,How do I add a signature in Outlook?,"Open settings in Outlook, navigate to Signature, and enter your desired signature text."
+Device Support,How to reset my Teams device settings?,Go to Settings > System > Reset options and choose to reset device.
+File Storage,How do I sync files offline in Outlook?,Enable offline mode in the settings to sync files to your device.
+Account & Access,"I forgot my Slack password, how do I recover it?","To recover your Slack password, visit the self-service portal and follow the recovery steps."
+Email & Communication,Can I schedule emails in Jira?,"Yes, go to the compose window in Jira, click schedule send, and choose your date/time."
+Software Support,Does Slack support dark mode?,"Yes, enable dark mode under Appearance in the Slack settings."
+Printing & Hardware,How do I scan directly to email on Slack printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Printing & Hardware,Can I use USB on Teams kiosk computers?,USB ports are disabled for security; use network shares instead.
+Software Support,Does Canvas support dark mode?,"Yes, enable dark mode under Appearance in the Canvas settings."
+General Queries,What is the maintenance schedule for Canvas services?,Check the IT status page for scheduled maintenance windows and notifications.
+Network & Connectivity,How do I whitelist websites in Teams network?,Submit a request via the IT portal with the URLs to whitelist.
+File Storage,How do I share a folder in SharePoint?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Software Support,Does Moodle support dark mode?,"Yes, enable dark mode under Appearance in the Moodle settings."
+Email & Communication,How do I add a signature in Moodle?,"Open settings in Moodle, navigate to Signature, and enter your desired signature text."
+Email & Communication,Why am I getting bounce-back emails from Jira?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Software Support,How to update SharePoint to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Device Support,How do I pair a Bluetooth device on Jira?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Printing & Hardware,How do I scan directly to email on Canvas printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+General Queries,How do I report a bug in Zoom portal?,Use the feedback link at the bottom of the Zoom portal page to submit bug reports.
+Email & Communication,Why am I getting bounce-back emails from SharePoint?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Network & Connectivity,How do I whitelist websites in Canvas network?,Submit a request via the IT portal with the URLs to whitelist.
+Email & Communication,Why am I getting bounce-back emails from Canvas?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Printing & Hardware,Why is my Zoom monitor flickering?,Check cable connections and update graphics drivers.
+Device Support,How do I pair a Bluetooth device on Confluence?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Software Support,How to update Moodle to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Printing & Hardware,How do I scan directly to email on Confluence printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+General Queries,How do I report a bug in Canvas portal?,Use the feedback link at the bottom of the Canvas portal page to submit bug reports.
+Software Support,How to update Zoom to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Printing & Hardware,Can I use USB on SharePoint kiosk computers?,USB ports are disabled for security; use network shares instead.
+Printing & Hardware,Why is my Slack monitor flickering?,Check cable connections and update graphics drivers.
+Software Support,Does Teams support dark mode?,"Yes, enable dark mode under Appearance in the Teams settings."
+Email & Communication,Why am I getting bounce-back emails from Moodle?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Printing & Hardware,Why is my Slack monitor flickering?,Check cable connections and update graphics drivers.
+File Storage,How do I sync files offline in SharePoint?,Enable offline mode in the settings to sync files to your device.
+General Queries,How do I report a bug in Teams portal?,Use the feedback link at the bottom of the Teams portal page to submit bug reports.
+Device Support,How do I pair a Bluetooth device on Canvas?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Device Support,Why isn't my Jira camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Account & Access,"I forgot my Zoom password, how do I recover it?","To recover your Zoom password, visit the self-service portal and follow the recovery steps."
+General Queries,How do I report a bug in Zoom portal?,Use the feedback link at the bottom of the Zoom portal page to submit bug reports.
+Network & Connectivity,Can I use Confluence from off-campus?,Connect to VPN first or use the university's proxy service.
+Printing & Hardware,Can I use USB on Confluence kiosk computers?,USB ports are disabled for security; use network shares instead.
+Network & Connectivity,Can I use Confluence from off-campus?,Connect to VPN first or use the university's proxy service.
+Printing & Hardware,Can I use USB on Zoom kiosk computers?,USB ports are disabled for security; use network shares instead.
+File Storage,What is the storage quota for Outlook?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Network & Connectivity,"My Gmail bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+Account & Access,"My Slack account is disabled, how can I enable it?",Your Slack account can be re-enabled by contacting IT support or using the account management portal.
+Printing & Hardware,Why is my Teams monitor flickering?,Check cable connections and update graphics drivers.
+Software Support,"Outlook plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Account & Access,How do I change my Outlook username?,"To change your Outlook username, go to your account settings and update your display name."
+Account & Access,How do I change my Teams username?,"To change your Teams username, go to your account settings and update your display name."
+Network & Connectivity,Can I use Teams from off-campus?,Connect to VPN first or use the university's proxy service.
+Account & Access,"I forgot my Confluence password, how do I recover it?","To recover your Confluence password, visit the self-service portal and follow the recovery steps."
+General Queries,What is the maintenance schedule for Outlook services?,Check the IT status page for scheduled maintenance windows and notifications.
+File Storage,What is the storage quota for Zoom?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Network & Connectivity,Can I use Jira from off-campus?,Connect to VPN first or use the university's proxy service.
+Email & Communication,Can I schedule emails in Moodle?,"Yes, go to the compose window in Moodle, click schedule send, and choose your date/time."
+Account & Access,"I forgot my Jira password, how do I recover it?","To recover your Jira password, visit the self-service portal and follow the recovery steps."
+File Storage,What is the storage quota for Outlook?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Network & Connectivity,"My Jira bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+Network & Connectivity,Can I use Gmail from off-campus?,Connect to VPN first or use the university's proxy service.
+Account & Access,How do I change my Gmail username?,"To change your Gmail username, go to your account settings and update your display name."
+General Queries,How do I report a bug in Moodle portal?,Use the feedback link at the bottom of the Moodle portal page to submit bug reports.
+General Queries,How do I report a bug in Slack portal?,Use the feedback link at the bottom of the Slack portal page to submit bug reports.
+Device Support,Why isn't my Gmail camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Printing & Hardware,How do I scan directly to email on Canvas printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+General Queries,What is the maintenance schedule for SharePoint services?,Check the IT status page for scheduled maintenance windows and notifications.
+General Queries,Where can I find the Teams API documentation?,Visit the developer portal's API section and search for Teams docs.
+Email & Communication,How do I add a signature in Slack?,"Open settings in Slack, navigate to Signature, and enter your desired signature text."
+Device Support,How to reset my Slack device settings?,Go to Settings > System > Reset options and choose to reset device.
+File Storage,What is the storage quota for Canvas?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Network & Connectivity,Can I use Canvas from off-campus?,Connect to VPN first or use the university's proxy service.
+Software Support,"Moodle plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Software Support,How to update SharePoint to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Device Support,How do I pair a Bluetooth device on Gmail?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Printing & Hardware,Can I use USB on Canvas kiosk computers?,USB ports are disabled for security; use network shares instead.
+Account & Access,"My SharePoint account is disabled, how can I enable it?",Your SharePoint account can be re-enabled by contacting IT support or using the account management portal.
+Printing & Hardware,How do I scan directly to email on Moodle printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Device Support,How to reset my Canvas device settings?,Go to Settings > System > Reset options and choose to reset device.
+Email & Communication,How do I add a signature in Zoom?,"Open settings in Zoom, navigate to Signature, and enter your desired signature text."
+Software Support,"Canvas plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+General Queries,How do I report a bug in Slack portal?,Use the feedback link at the bottom of the Slack portal page to submit bug reports.
+Account & Access,"I forgot my Zoom password, how do I recover it?","To recover your Zoom password, visit the self-service portal and follow the recovery steps."
+General Queries,Where can I find the Gmail API documentation?,Visit the developer portal's API section and search for Gmail docs.
+Printing & Hardware,Why is my Canvas monitor flickering?,Check cable connections and update graphics drivers.
+File Storage,How do I share a folder in Confluence?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Software Support,How to update Slack to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Software Support,How to update Outlook to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+General Queries,How do I report a bug in Moodle portal?,Use the feedback link at the bottom of the Moodle portal page to submit bug reports.
+Network & Connectivity,Can I use Outlook from off-campus?,Connect to VPN first or use the university's proxy service.
+General Queries,Where can I find the Canvas API documentation?,Visit the developer portal's API section and search for Canvas docs.
+Printing & Hardware,Can I use USB on Outlook kiosk computers?,USB ports are disabled for security; use network shares instead.
+Email & Communication,Can I schedule emails in Teams?,"Yes, go to the compose window in Teams, click schedule send, and choose your date/time."
+Network & Connectivity,How do I whitelist websites in Canvas network?,Submit a request via the IT portal with the URLs to whitelist.
+Email & Communication,Can I schedule emails in Moodle?,"Yes, go to the compose window in Moodle, click schedule send, and choose your date/time."
+Network & Connectivity,Can I use Gmail from off-campus?,Connect to VPN first or use the university's proxy service.
+Network & Connectivity,How do I whitelist websites in Moodle network?,Submit a request via the IT portal with the URLs to whitelist.
+Printing & Hardware,Can I use USB on Moodle kiosk computers?,USB ports are disabled for security; use network shares instead.
+Network & Connectivity,"My Gmail bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+Network & Connectivity,Can I use Jira from off-campus?,Connect to VPN first or use the university's proxy service.
+Network & Connectivity,"My Canvas bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+File Storage,What is the storage quota for Teams?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+General Queries,What is the maintenance schedule for Outlook services?,Check the IT status page for scheduled maintenance windows and notifications.
+Printing & Hardware,How do I scan directly to email on Slack printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+File Storage,How do I share a folder in Moodle?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Printing & Hardware,How do I scan directly to email on Slack printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Network & Connectivity,How do I whitelist websites in Zoom network?,Submit a request via the IT portal with the URLs to whitelist.
+File Storage,What is the storage quota for Slack?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Email & Communication,How do I add a signature in Gmail?,"Open settings in Gmail, navigate to Signature, and enter your desired signature text."
+Software Support,How to update Jira to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Network & Connectivity,Can I use Teams from off-campus?,Connect to VPN first or use the university's proxy service.
+General Queries,How do I report a bug in Confluence portal?,Use the feedback link at the bottom of the Confluence portal page to submit bug reports.
+Device Support,How to reset my SharePoint device settings?,Go to Settings > System > Reset options and choose to reset device.
+Software Support,"Canvas plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+General Queries,How do I report a bug in Canvas portal?,Use the feedback link at the bottom of the Canvas portal page to submit bug reports.
+Printing & Hardware,Why is my Teams monitor flickering?,Check cable connections and update graphics drivers.
+Device Support,Why isn't my Jira camera detected?,Install the latest driver and enable camera permission in privacy settings.
+General Queries,How do I report a bug in Zoom portal?,Use the feedback link at the bottom of the Zoom portal page to submit bug reports.
+File Storage,What is the storage quota for Canvas?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+File Storage,How do I share a folder in Zoom?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+General Queries,How do I report a bug in Teams portal?,Use the feedback link at the bottom of the Teams portal page to submit bug reports.
+File Storage,How do I sync files offline in Slack?,Enable offline mode in the settings to sync files to your device.
+File Storage,What is the storage quota for Canvas?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Account & Access,"I forgot my Slack password, how do I recover it?","To recover your Slack password, visit the self-service portal and follow the recovery steps."
+General Queries,Where can I find the Outlook API documentation?,Visit the developer portal's API section and search for Outlook docs.
+Network & Connectivity,Can I use Teams from off-campus?,Connect to VPN first or use the university's proxy service.
+Network & Connectivity,How do I whitelist websites in Jira network?,Submit a request via the IT portal with the URLs to whitelist.
+Device Support,How to reset my Gmail device settings?,Go to Settings > System > Reset options and choose to reset device.
+File Storage,What is the storage quota for Confluence?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Network & Connectivity,"My Jira bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+Account & Access,"My SharePoint account is disabled, how can I enable it?",Your SharePoint account can be re-enabled by contacting IT support or using the account management portal.
+Software Support,"Slack plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Account & Access,"I forgot my Jira password, how do I recover it?","To recover your Jira password, visit the self-service portal and follow the recovery steps."
+Software Support,How to update Zoom to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Software Support,Does Gmail support dark mode?,"Yes, enable dark mode under Appearance in the Gmail settings."
+Software Support,Does Zoom support dark mode?,"Yes, enable dark mode under Appearance in the Zoom settings."
+Email & Communication,How do I add a signature in Moodle?,"Open settings in Moodle, navigate to Signature, and enter your desired signature text."
+File Storage,What is the storage quota for Moodle?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Email & Communication,How do I add a signature in Canvas?,"Open settings in Canvas, navigate to Signature, and enter your desired signature text."
+Network & Connectivity,"My Gmail bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+Software Support,"Teams plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Network & Connectivity,"My Confluence bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+Email & Communication,Can I schedule emails in Moodle?,"Yes, go to the compose window in Moodle, click schedule send, and choose your date/time."
+Email & Communication,Why am I getting bounce-back emails from Moodle?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Software Support,"SharePoint plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Printing & Hardware,How do I scan directly to email on Gmail printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+File Storage,How do I share a folder in Jira?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Software Support,Does Moodle support dark mode?,"Yes, enable dark mode under Appearance in the Moodle settings."
+Network & Connectivity,Can I use Moodle from off-campus?,Connect to VPN first or use the university's proxy service.
+Account & Access,"My Zoom account is disabled, how can I enable it?",Your Zoom account can be re-enabled by contacting IT support or using the account management portal.
+Network & Connectivity,How do I whitelist websites in Moodle network?,Submit a request via the IT portal with the URLs to whitelist.
+Account & Access,"I forgot my Teams password, how do I recover it?","To recover your Teams password, visit the self-service portal and follow the recovery steps."
+Device Support,How to reset my Slack device settings?,Go to Settings > System > Reset options and choose to reset device.
+Printing & Hardware,How do I scan directly to email on Canvas printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+File Storage,What is the storage quota for Slack?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Device Support,How to reset my Zoom device settings?,Go to Settings > System > Reset options and choose to reset device.
+Account & Access,"I forgot my Canvas password, how do I recover it?","To recover your Canvas password, visit the self-service portal and follow the recovery steps."
+Email & Communication,Why am I getting bounce-back emails from Zoom?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Email & Communication,Can I schedule emails in Slack?,"Yes, go to the compose window in Slack, click schedule send, and choose your date/time."
+Device Support,How do I pair a Bluetooth device on Outlook?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Email & Communication,How do I add a signature in Slack?,"Open settings in Slack, navigate to Signature, and enter your desired signature text."
+Account & Access,"I forgot my SharePoint password, how do I recover it?","To recover your SharePoint password, visit the self-service portal and follow the recovery steps."
+File Storage,How do I share a folder in Teams?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Network & Connectivity,How do I whitelist websites in Jira network?,Submit a request via the IT portal with the URLs to whitelist.
+Network & Connectivity,"My Confluence bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+Printing & Hardware,Can I use USB on SharePoint kiosk computers?,USB ports are disabled for security; use network shares instead.
+Device Support,How do I pair a Bluetooth device on Jira?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Device Support,Why isn't my Zoom camera detected?,Install the latest driver and enable camera permission in privacy settings.
+File Storage,What is the storage quota for Jira?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+File Storage,How do I share a folder in Outlook?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Network & Connectivity,How do I whitelist websites in Teams network?,Submit a request via the IT portal with the URLs to whitelist.
+Email & Communication,Can I schedule emails in Teams?,"Yes, go to the compose window in Teams, click schedule send, and choose your date/time."
+Account & Access,How do I change my Slack username?,"To change your Slack username, go to your account settings and update your display name."
+Software Support,How to update Outlook to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+General Queries,What is the maintenance schedule for SharePoint services?,Check the IT status page for scheduled maintenance windows and notifications.
+File Storage,How do I sync files offline in Outlook?,Enable offline mode in the settings to sync files to your device.
+File Storage,What is the storage quota for Zoom?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Email & Communication,How do I add a signature in Confluence?,"Open settings in Confluence, navigate to Signature, and enter your desired signature text."
+Network & Connectivity,How do I whitelist websites in Jira network?,Submit a request via the IT portal with the URLs to whitelist.
+Email & Communication,How do I add a signature in Moodle?,"Open settings in Moodle, navigate to Signature, and enter your desired signature text."
+Network & Connectivity,Can I use Slack from off-campus?,Connect to VPN first or use the university's proxy service.
+Email & Communication,Why am I getting bounce-back emails from Teams?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+File Storage,How do I share a folder in SharePoint?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Printing & Hardware,How do I scan directly to email on Jira printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Printing & Hardware,How do I scan directly to email on Zoom printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Account & Access,"My Teams account is disabled, how can I enable it?",Your Teams account can be re-enabled by contacting IT support or using the account management portal.
+Account & Access,How do I change my Canvas username?,"To change your Canvas username, go to your account settings and update your display name."
+File Storage,How do I share a folder in Canvas?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+File Storage,How do I share a folder in Teams?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+File Storage,What is the storage quota for Moodle?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Email & Communication,How do I add a signature in Teams?,"Open settings in Teams, navigate to Signature, and enter your desired signature text."
+Printing & Hardware,Can I use USB on Zoom kiosk computers?,USB ports are disabled for security; use network shares instead.
+Network & Connectivity,How do I whitelist websites in Jira network?,Submit a request via the IT portal with the URLs to whitelist.
+Account & Access,How do I change my Moodle username?,"To change your Moodle username, go to your account settings and update your display name."
+Network & Connectivity,Can I use Jira from off-campus?,Connect to VPN first or use the university's proxy service.
+Email & Communication,Can I schedule emails in Confluence?,"Yes, go to the compose window in Confluence, click schedule send, and choose your date/time."
+Device Support,Why isn't my Outlook camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Account & Access,"My Canvas account is disabled, how can I enable it?",Your Canvas account can be re-enabled by contacting IT support or using the account management portal.
+General Queries,Where can I find the Teams API documentation?,Visit the developer portal's API section and search for Teams docs.
+Printing & Hardware,Why is my Canvas monitor flickering?,Check cable connections and update graphics drivers.
+Software Support,How to update Teams to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Software Support,Does Moodle support dark mode?,"Yes, enable dark mode under Appearance in the Moodle settings."
+General Queries,How do I report a bug in Jira portal?,Use the feedback link at the bottom of the Jira portal page to submit bug reports.
+File Storage,What is the storage quota for Canvas?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+File Storage,How do I sync files offline in Slack?,Enable offline mode in the settings to sync files to your device.
+Network & Connectivity,"My SharePoint bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+File Storage,How do I share a folder in SharePoint?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Network & Connectivity,"My Slack bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+Email & Communication,Why am I getting bounce-back emails from Zoom?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Printing & Hardware,How do I scan directly to email on Teams printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Network & Connectivity,Can I use Confluence from off-campus?,Connect to VPN first or use the university's proxy service.
+Email & Communication,Can I schedule emails in Moodle?,"Yes, go to the compose window in Moodle, click schedule send, and choose your date/time."
+Account & Access,"My Outlook account is disabled, how can I enable it?",Your Outlook account can be re-enabled by contacting IT support or using the account management portal.
+File Storage,How do I share a folder in Teams?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Printing & Hardware,Why is my Teams monitor flickering?,Check cable connections and update graphics drivers.
+Email & Communication,Can I schedule emails in Outlook?,"Yes, go to the compose window in Outlook, click schedule send, and choose your date/time."
+Device Support,Why isn't my Confluence camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Email & Communication,Can I schedule emails in Gmail?,"Yes, go to the compose window in Gmail, click schedule send, and choose your date/time."
+General Queries,How do I report a bug in Moodle portal?,Use the feedback link at the bottom of the Moodle portal page to submit bug reports.
+Device Support,How do I pair a Bluetooth device on Zoom?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Email & Communication,Why am I getting bounce-back emails from Teams?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Printing & Hardware,How do I scan directly to email on Outlook printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Account & Access,"My Confluence account is disabled, how can I enable it?",Your Confluence account can be re-enabled by contacting IT support or using the account management portal.
+General Queries,What is the maintenance schedule for Jira services?,Check the IT status page for scheduled maintenance windows and notifications.
+Printing & Hardware,Why is my Gmail monitor flickering?,Check cable connections and update graphics drivers.
+Printing & Hardware,Why is my SharePoint monitor flickering?,Check cable connections and update graphics drivers.
+General Queries,What is the maintenance schedule for Canvas services?,Check the IT status page for scheduled maintenance windows and notifications.
+Device Support,How to reset my Confluence device settings?,Go to Settings > System > Reset options and choose to reset device.
+Account & Access,"My Outlook account is disabled, how can I enable it?",Your Outlook account can be re-enabled by contacting IT support or using the account management portal.
+Device Support,How to reset my Moodle device settings?,Go to Settings > System > Reset options and choose to reset device.
+Printing & Hardware,Can I use USB on Gmail kiosk computers?,USB ports are disabled for security; use network shares instead.
+Software Support,Does Jira support dark mode?,"Yes, enable dark mode under Appearance in the Jira settings."
+Email & Communication,Why am I getting bounce-back emails from Canvas?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Email & Communication,Why am I getting bounce-back emails from Slack?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Software Support,"Outlook plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Account & Access,How do I change my Outlook username?,"To change your Outlook username, go to your account settings and update your display name."
+Software Support,Does Zoom support dark mode?,"Yes, enable dark mode under Appearance in the Zoom settings."
+File Storage,What is the storage quota for Confluence?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Account & Access,"My Zoom account is disabled, how can I enable it?",Your Zoom account can be re-enabled by contacting IT support or using the account management portal.
+Email & Communication,Can I schedule emails in Moodle?,"Yes, go to the compose window in Moodle, click schedule send, and choose your date/time."
+Device Support,How to reset my Canvas device settings?,Go to Settings > System > Reset options and choose to reset device.
+Printing & Hardware,Why is my Gmail monitor flickering?,Check cable connections and update graphics drivers.
+Software Support,Does SharePoint support dark mode?,"Yes, enable dark mode under Appearance in the SharePoint settings."
+Printing & Hardware,Why is my Jira monitor flickering?,Check cable connections and update graphics drivers.
+Network & Connectivity,Can I use Gmail from off-campus?,Connect to VPN first or use the university's proxy service.
+Network & Connectivity,How do I whitelist websites in Moodle network?,Submit a request via the IT portal with the URLs to whitelist.
+File Storage,What is the storage quota for Gmail?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Software Support,How to update Teams to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Email & Communication,Can I schedule emails in Teams?,"Yes, go to the compose window in Teams, click schedule send, and choose your date/time."
+Email & Communication,How do I add a signature in Zoom?,"Open settings in Zoom, navigate to Signature, and enter your desired signature text."
+Printing & Hardware,How do I scan directly to email on Canvas printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+General Queries,Where can I find the Slack API documentation?,Visit the developer portal's API section and search for Slack docs.
+Software Support,"Outlook plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+General Queries,What is the maintenance schedule for Outlook services?,Check the IT status page for scheduled maintenance windows and notifications.
+Device Support,Why isn't my Jira camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Account & Access,"My Moodle account is disabled, how can I enable it?",Your Moodle account can be re-enabled by contacting IT support or using the account management portal.
+General Queries,Where can I find the Zoom API documentation?,Visit the developer portal's API section and search for Zoom docs.
+Network & Connectivity,"My Outlook bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+Software Support,Does Outlook support dark mode?,"Yes, enable dark mode under Appearance in the Outlook settings."
+Printing & Hardware,Why is my Teams monitor flickering?,Check cable connections and update graphics drivers.
+Account & Access,"My Teams account is disabled, how can I enable it?",Your Teams account can be re-enabled by contacting IT support or using the account management portal.
+Email & Communication,Can I schedule emails in Outlook?,"Yes, go to the compose window in Outlook, click schedule send, and choose your date/time."
+General Queries,How do I report a bug in Teams portal?,Use the feedback link at the bottom of the Teams portal page to submit bug reports.
+Device Support,Why isn't my Zoom camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Device Support,Why isn't my Gmail camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Device Support,How do I pair a Bluetooth device on Gmail?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Network & Connectivity,"My Zoom bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+File Storage,What is the storage quota for Gmail?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Device Support,Why isn't my Zoom camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Device Support,How do I pair a Bluetooth device on Zoom?,"Open Bluetooth settings, search for devices, and select your device to pair."
+File Storage,How do I sync files offline in Canvas?,Enable offline mode in the settings to sync files to your device.
+Network & Connectivity,Can I use Slack from off-campus?,Connect to VPN first or use the university's proxy service.
+Account & Access,"I forgot my Teams password, how do I recover it?","To recover your Teams password, visit the self-service portal and follow the recovery steps."
+Software Support,How to update Confluence to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+File Storage,What is the storage quota for Jira?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Software Support,How to update Slack to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Printing & Hardware,How do I scan directly to email on Jira printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+General Queries,What is the maintenance schedule for Slack services?,Check the IT status page for scheduled maintenance windows and notifications.
+Account & Access,"My Slack account is disabled, how can I enable it?",Your Slack account can be re-enabled by contacting IT support or using the account management portal.
+General Queries,Where can I find the Jira API documentation?,Visit the developer portal's API section and search for Jira docs.
+Printing & Hardware,How do I scan directly to email on Moodle printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Account & Access,"My Moodle account is disabled, how can I enable it?",Your Moodle account can be re-enabled by contacting IT support or using the account management portal.
+General Queries,What is the maintenance schedule for SharePoint services?,Check the IT status page for scheduled maintenance windows and notifications.
+Email & Communication,Why am I getting bounce-back emails from Moodle?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Account & Access,How do I change my Confluence username?,"To change your Confluence username, go to your account settings and update your display name."
+Software Support,How to update Teams to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Network & Connectivity,How do I whitelist websites in Outlook network?,Submit a request via the IT portal with the URLs to whitelist.
+File Storage,How do I sync files offline in Teams?,Enable offline mode in the settings to sync files to your device.
+Email & Communication,How do I add a signature in Gmail?,"Open settings in Gmail, navigate to Signature, and enter your desired signature text."
+File Storage,How do I share a folder in Outlook?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Software Support,Does Teams support dark mode?,"Yes, enable dark mode under Appearance in the Teams settings."
+Account & Access,"I forgot my Gmail password, how do I recover it?","To recover your Gmail password, visit the self-service portal and follow the recovery steps."
+General Queries,Where can I find the Moodle API documentation?,Visit the developer portal's API section and search for Moodle docs.
+Software Support,"Slack plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Network & Connectivity,"My Outlook bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+Device Support,How to reset my Canvas device settings?,Go to Settings > System > Reset options and choose to reset device.
+File Storage,How do I sync files offline in Moodle?,Enable offline mode in the settings to sync files to your device.
+Network & Connectivity,Can I use Canvas from off-campus?,Connect to VPN first or use the university's proxy service.
+Software Support,How to update Teams to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Device Support,How to reset my Jira device settings?,Go to Settings > System > Reset options and choose to reset device.
+Software Support,Does Outlook support dark mode?,"Yes, enable dark mode under Appearance in the Outlook settings."
+File Storage,How do I sync files offline in Moodle?,Enable offline mode in the settings to sync files to your device.
+File Storage,What is the storage quota for Gmail?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+File Storage,How do I sync files offline in SharePoint?,Enable offline mode in the settings to sync files to your device.
+General Queries,Where can I find the Canvas API documentation?,Visit the developer portal's API section and search for Canvas docs.
+File Storage,What is the storage quota for Jira?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Device Support,Why isn't my Confluence camera detected?,Install the latest driver and enable camera permission in privacy settings.
+General Queries,Where can I find the Gmail API documentation?,Visit the developer portal's API section and search for Gmail docs.
+Account & Access,"My Jira account is disabled, how can I enable it?",Your Jira account can be re-enabled by contacting IT support or using the account management portal.
+Device Support,How do I pair a Bluetooth device on Gmail?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Network & Connectivity,How do I whitelist websites in Gmail network?,Submit a request via the IT portal with the URLs to whitelist.
+File Storage,How do I share a folder in SharePoint?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Printing & Hardware,How do I scan directly to email on Teams printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+File Storage,What is the storage quota for Canvas?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Email & Communication,Why am I getting bounce-back emails from Zoom?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Software Support,"Slack plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Software Support,"Gmail plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Network & Connectivity,Can I use Teams from off-campus?,Connect to VPN first or use the university's proxy service.
+File Storage,What is the storage quota for Slack?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Email & Communication,How do I add a signature in Slack?,"Open settings in Slack, navigate to Signature, and enter your desired signature text."
+Email & Communication,How do I add a signature in Slack?,"Open settings in Slack, navigate to Signature, and enter your desired signature text."
+Account & Access,"My Canvas account is disabled, how can I enable it?",Your Canvas account can be re-enabled by contacting IT support or using the account management portal.
+Printing & Hardware,How do I scan directly to email on Confluence printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Email & Communication,How do I add a signature in Confluence?,"Open settings in Confluence, navigate to Signature, and enter your desired signature text."
+Printing & Hardware,Can I use USB on Canvas kiosk computers?,USB ports are disabled for security; use network shares instead.
+Email & Communication,How do I add a signature in SharePoint?,"Open settings in SharePoint, navigate to Signature, and enter your desired signature text."
+General Queries,How do I report a bug in Jira portal?,Use the feedback link at the bottom of the Jira portal page to submit bug reports.
+File Storage,How do I sync files offline in Moodle?,Enable offline mode in the settings to sync files to your device.
+General Queries,Where can I find the Confluence API documentation?,Visit the developer portal's API section and search for Confluence docs.
+Device Support,How do I pair a Bluetooth device on Slack?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Printing & Hardware,Can I use USB on Jira kiosk computers?,USB ports are disabled for security; use network shares instead.
+Email & Communication,Why am I getting bounce-back emails from Outlook?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Device Support,Why isn't my Slack camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Device Support,Why isn't my Slack camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Device Support,Why isn't my Teams camera detected?,Install the latest driver and enable camera permission in privacy settings.
+General Queries,Where can I find the Teams API documentation?,Visit the developer portal's API section and search for Teams docs.
+Printing & Hardware,Can I use USB on Outlook kiosk computers?,USB ports are disabled for security; use network shares instead.
+File Storage,How do I sync files offline in Canvas?,Enable offline mode in the settings to sync files to your device.
+Account & Access,"I forgot my Canvas password, how do I recover it?","To recover your Canvas password, visit the self-service portal and follow the recovery steps."
+Device Support,How do I pair a Bluetooth device on Slack?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Software Support,Does Teams support dark mode?,"Yes, enable dark mode under Appearance in the Teams settings."
+Printing & Hardware,How do I scan directly to email on Teams printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Software Support,How to update Zoom to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Account & Access,"I forgot my Gmail password, how do I recover it?","To recover your Gmail password, visit the self-service portal and follow the recovery steps."
+General Queries,How do I report a bug in Slack portal?,Use the feedback link at the bottom of the Slack portal page to submit bug reports.
+Software Support,Does Jira support dark mode?,"Yes, enable dark mode under Appearance in the Jira settings."
+File Storage,What is the storage quota for Gmail?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Printing & Hardware,Can I use USB on Confluence kiosk computers?,USB ports are disabled for security; use network shares instead.
+Network & Connectivity,Can I use Teams from off-campus?,Connect to VPN first or use the university's proxy service.
+General Queries,What is the maintenance schedule for Moodle services?,Check the IT status page for scheduled maintenance windows and notifications.
+Software Support,Does Moodle support dark mode?,"Yes, enable dark mode under Appearance in the Moodle settings."
+File Storage,What is the storage quota for Outlook?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Account & Access,"I forgot my Gmail password, how do I recover it?","To recover your Gmail password, visit the self-service portal and follow the recovery steps."
+General Queries,How do I report a bug in Gmail portal?,Use the feedback link at the bottom of the Gmail portal page to submit bug reports.
+Software Support,Does Gmail support dark mode?,"Yes, enable dark mode under Appearance in the Gmail settings."
+Network & Connectivity,Can I use Moodle from off-campus?,Connect to VPN first or use the university's proxy service.
+File Storage,What is the storage quota for Jira?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Software Support,"Confluence plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Network & Connectivity,How do I whitelist websites in SharePoint network?,Submit a request via the IT portal with the URLs to whitelist.
+Email & Communication,How do I add a signature in Zoom?,"Open settings in Zoom, navigate to Signature, and enter your desired signature text."
+Email & Communication,Can I schedule emails in Canvas?,"Yes, go to the compose window in Canvas, click schedule send, and choose your date/time."
+Printing & Hardware,Can I use USB on Canvas kiosk computers?,USB ports are disabled for security; use network shares instead.
+Account & Access,"My Canvas account is disabled, how can I enable it?",Your Canvas account can be re-enabled by contacting IT support or using the account management portal.
+File Storage,How do I sync files offline in Confluence?,Enable offline mode in the settings to sync files to your device.
+File Storage,What is the storage quota for Gmail?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Email & Communication,How do I add a signature in Canvas?,"Open settings in Canvas, navigate to Signature, and enter your desired signature text."
+File Storage,What is the storage quota for SharePoint?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Software Support,Does Jira support dark mode?,"Yes, enable dark mode under Appearance in the Jira settings."
+General Queries,What is the maintenance schedule for Jira services?,Check the IT status page for scheduled maintenance windows and notifications.
+Printing & Hardware,How do I scan directly to email on Teams printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+File Storage,How do I sync files offline in Zoom?,Enable offline mode in the settings to sync files to your device.
+Software Support,"SharePoint plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+General Queries,Where can I find the Jira API documentation?,Visit the developer portal's API section and search for Jira docs.
+File Storage,What is the storage quota for Slack?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Email & Communication,Can I schedule emails in Outlook?,"Yes, go to the compose window in Outlook, click schedule send, and choose your date/time."
+General Queries,Where can I find the Gmail API documentation?,Visit the developer portal's API section and search for Gmail docs.
+File Storage,What is the storage quota for Teams?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Email & Communication,Can I schedule emails in SharePoint?,"Yes, go to the compose window in SharePoint, click schedule send, and choose your date/time."
+Software Support,"Outlook plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Printing & Hardware,How do I scan directly to email on Confluence printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Account & Access,"I forgot my Canvas password, how do I recover it?","To recover your Canvas password, visit the self-service portal and follow the recovery steps."
+General Queries,What is the maintenance schedule for Zoom services?,Check the IT status page for scheduled maintenance windows and notifications.
+Email & Communication,Why am I getting bounce-back emails from Canvas?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Account & Access,"I forgot my Zoom password, how do I recover it?","To recover your Zoom password, visit the self-service portal and follow the recovery steps."
+File Storage,What is the storage quota for Zoom?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Printing & Hardware,How do I scan directly to email on Moodle printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+File Storage,How do I sync files offline in Moodle?,Enable offline mode in the settings to sync files to your device.
+General Queries,How do I report a bug in Moodle portal?,Use the feedback link at the bottom of the Moodle portal page to submit bug reports.
+Printing & Hardware,Why is my Teams monitor flickering?,Check cable connections and update graphics drivers.
+Network & Connectivity,Can I use Outlook from off-campus?,Connect to VPN first or use the university's proxy service.
+File Storage,What is the storage quota for SharePoint?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Account & Access,How do I change my Confluence username?,"To change your Confluence username, go to your account settings and update your display name."
+Email & Communication,How do I add a signature in Moodle?,"Open settings in Moodle, navigate to Signature, and enter your desired signature text."
+Network & Connectivity,How do I whitelist websites in Moodle network?,Submit a request via the IT portal with the URLs to whitelist.
+Account & Access,How do I change my Teams username?,"To change your Teams username, go to your account settings and update your display name."
+Device Support,How to reset my Canvas device settings?,Go to Settings > System > Reset options and choose to reset device.
+Account & Access,"I forgot my SharePoint password, how do I recover it?","To recover your SharePoint password, visit the self-service portal and follow the recovery steps."
+General Queries,How do I report a bug in Slack portal?,Use the feedback link at the bottom of the Slack portal page to submit bug reports.
+Printing & Hardware,Can I use USB on Canvas kiosk computers?,USB ports are disabled for security; use network shares instead.
+File Storage,What is the storage quota for SharePoint?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Device Support,How do I pair a Bluetooth device on Teams?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Software Support,Does Canvas support dark mode?,"Yes, enable dark mode under Appearance in the Canvas settings."
+Device Support,Why isn't my Zoom camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Network & Connectivity,Can I use Confluence from off-campus?,Connect to VPN first or use the university's proxy service.
+Network & Connectivity,Can I use Moodle from off-campus?,Connect to VPN first or use the university's proxy service.
+Account & Access,"I forgot my Moodle password, how do I recover it?","To recover your Moodle password, visit the self-service portal and follow the recovery steps."
+Network & Connectivity,Can I use Outlook from off-campus?,Connect to VPN first or use the university's proxy service.
+Printing & Hardware,How do I scan directly to email on Teams printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Printing & Hardware,Can I use USB on Zoom kiosk computers?,USB ports are disabled for security; use network shares instead.
+Email & Communication,How do I add a signature in Outlook?,"Open settings in Outlook, navigate to Signature, and enter your desired signature text."
+General Queries,What is the maintenance schedule for SharePoint services?,Check the IT status page for scheduled maintenance windows and notifications.
+Network & Connectivity,Can I use SharePoint from off-campus?,Connect to VPN first or use the university's proxy service.
+Email & Communication,Can I schedule emails in Jira?,"Yes, go to the compose window in Jira, click schedule send, and choose your date/time."
+General Queries,What is the maintenance schedule for Moodle services?,Check the IT status page for scheduled maintenance windows and notifications.
+Printing & Hardware,How do I scan directly to email on Outlook printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Device Support,Why isn't my Teams camera detected?,Install the latest driver and enable camera permission in privacy settings.
+General Queries,What is the maintenance schedule for Slack services?,Check the IT status page for scheduled maintenance windows and notifications.
+Account & Access,"I forgot my SharePoint password, how do I recover it?","To recover your SharePoint password, visit the self-service portal and follow the recovery steps."
+Account & Access,"I forgot my Jira password, how do I recover it?","To recover your Jira password, visit the self-service portal and follow the recovery steps."
+General Queries,What is the maintenance schedule for Outlook services?,Check the IT status page for scheduled maintenance windows and notifications.
+Email & Communication,How do I add a signature in Confluence?,"Open settings in Confluence, navigate to Signature, and enter your desired signature text."
+File Storage,How do I sync files offline in Gmail?,Enable offline mode in the settings to sync files to your device.
+Account & Access,How do I change my SharePoint username?,"To change your SharePoint username, go to your account settings and update your display name."
+Email & Communication,How do I add a signature in Confluence?,"Open settings in Confluence, navigate to Signature, and enter your desired signature text."
+Printing & Hardware,Can I use USB on Moodle kiosk computers?,USB ports are disabled for security; use network shares instead.
+General Queries,What is the maintenance schedule for Moodle services?,Check the IT status page for scheduled maintenance windows and notifications.
+Software Support,How to update Zoom to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+File Storage,How do I share a folder in Zoom?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Device Support,Why isn't my Gmail camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Email & Communication,Why am I getting bounce-back emails from Outlook?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Printing & Hardware,Why is my Outlook monitor flickering?,Check cable connections and update graphics drivers.
+General Queries,What is the maintenance schedule for SharePoint services?,Check the IT status page for scheduled maintenance windows and notifications.
+Email & Communication,How do I add a signature in Zoom?,"Open settings in Zoom, navigate to Signature, and enter your desired signature text."
+Device Support,Why isn't my Jira camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Software Support,"Moodle plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+General Queries,What is the maintenance schedule for Outlook services?,Check the IT status page for scheduled maintenance windows and notifications.
+General Queries,Where can I find the Gmail API documentation?,Visit the developer portal's API section and search for Gmail docs.
+Network & Connectivity,How do I whitelist websites in Slack network?,Submit a request via the IT portal with the URLs to whitelist.
+General Queries,Where can I find the Canvas API documentation?,Visit the developer portal's API section and search for Canvas docs.
+Network & Connectivity,Can I use Slack from off-campus?,Connect to VPN first or use the university's proxy service.
+General Queries,What is the maintenance schedule for Slack services?,Check the IT status page for scheduled maintenance windows and notifications.
+Account & Access,"My Moodle account is disabled, how can I enable it?",Your Moodle account can be re-enabled by contacting IT support or using the account management portal.
+Software Support,How to update Zoom to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Software Support,"Outlook plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Email & Communication,Why am I getting bounce-back emails from Canvas?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Software Support,Does Outlook support dark mode?,"Yes, enable dark mode under Appearance in the Outlook settings."
+File Storage,How do I share a folder in Confluence?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+General Queries,How do I report a bug in Jira portal?,Use the feedback link at the bottom of the Jira portal page to submit bug reports.
+Device Support,How do I pair a Bluetooth device on Teams?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Printing & Hardware,Why is my Moodle monitor flickering?,Check cable connections and update graphics drivers.
+Network & Connectivity,Can I use Gmail from off-campus?,Connect to VPN first or use the university's proxy service.
+Device Support,How do I pair a Bluetooth device on Teams?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Account & Access,How do I change my Moodle username?,"To change your Moodle username, go to your account settings and update your display name."
+Device Support,How do I pair a Bluetooth device on Canvas?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Software Support,How to update Jira to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Software Support,Does Gmail support dark mode?,"Yes, enable dark mode under Appearance in the Gmail settings."
+Account & Access,"I forgot my Outlook password, how do I recover it?","To recover your Outlook password, visit the self-service portal and follow the recovery steps."
+Printing & Hardware,Why is my Teams monitor flickering?,Check cable connections and update graphics drivers.
+Account & Access,"I forgot my Slack password, how do I recover it?","To recover your Slack password, visit the self-service portal and follow the recovery steps."
+Email & Communication,Why am I getting bounce-back emails from Moodle?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+General Queries,Where can I find the Moodle API documentation?,Visit the developer portal's API section and search for Moodle docs.
+Printing & Hardware,Can I use USB on Zoom kiosk computers?,USB ports are disabled for security; use network shares instead.
+Account & Access,"I forgot my Moodle password, how do I recover it?","To recover your Moodle password, visit the self-service portal and follow the recovery steps."
+File Storage,How do I share a folder in Teams?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Email & Communication,Why am I getting bounce-back emails from Canvas?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Network & Connectivity,How do I whitelist websites in Confluence network?,Submit a request via the IT portal with the URLs to whitelist.
+Printing & Hardware,Can I use USB on Confluence kiosk computers?,USB ports are disabled for security; use network shares instead.
+Network & Connectivity,How do I whitelist websites in Gmail network?,Submit a request via the IT portal with the URLs to whitelist.
+Software Support,How to update Canvas to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Network & Connectivity,How do I whitelist websites in Slack network?,Submit a request via the IT portal with the URLs to whitelist.
+File Storage,How do I share a folder in Jira?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Network & Connectivity,"My Moodle bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+General Queries,What is the maintenance schedule for Gmail services?,Check the IT status page for scheduled maintenance windows and notifications.
+Network & Connectivity,How do I whitelist websites in Moodle network?,Submit a request via the IT portal with the URLs to whitelist.
+General Queries,Where can I find the Moodle API documentation?,Visit the developer portal's API section and search for Moodle docs.
+File Storage,How do I share a folder in SharePoint?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Device Support,How do I pair a Bluetooth device on SharePoint?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Software Support,How to update Gmail to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+File Storage,How do I share a folder in Canvas?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Device Support,Why isn't my Slack camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Printing & Hardware,Can I use USB on Zoom kiosk computers?,USB ports are disabled for security; use network shares instead.
+Device Support,Why isn't my Canvas camera detected?,Install the latest driver and enable camera permission in privacy settings.
+File Storage,How do I share a folder in Slack?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+General Queries,What is the maintenance schedule for Canvas services?,Check the IT status page for scheduled maintenance windows and notifications.
+Printing & Hardware,How do I scan directly to email on Jira printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+File Storage,How do I share a folder in Zoom?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Account & Access,How do I change my Gmail username?,"To change your Gmail username, go to your account settings and update your display name."
+Software Support,"SharePoint plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Account & Access,"I forgot my Slack password, how do I recover it?","To recover your Slack password, visit the self-service portal and follow the recovery steps."
+Email & Communication,How do I add a signature in Moodle?,"Open settings in Moodle, navigate to Signature, and enter your desired signature text."
+Device Support,How do I pair a Bluetooth device on Confluence?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Network & Connectivity,"My Canvas bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+Device Support,Why isn't my Jira camera detected?,Install the latest driver and enable camera permission in privacy settings.
+File Storage,How do I share a folder in SharePoint?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Printing & Hardware,How do I scan directly to email on Teams printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Software Support,"Gmail plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Email & Communication,How do I add a signature in Confluence?,"Open settings in Confluence, navigate to Signature, and enter your desired signature text."
+File Storage,How do I sync files offline in Confluence?,Enable offline mode in the settings to sync files to your device.
+File Storage,What is the storage quota for Teams?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Email & Communication,How do I add a signature in Moodle?,"Open settings in Moodle, navigate to Signature, and enter your desired signature text."
+Account & Access,How do I change my Canvas username?,"To change your Canvas username, go to your account settings and update your display name."
+General Queries,How do I report a bug in Jira portal?,Use the feedback link at the bottom of the Jira portal page to submit bug reports.
+General Queries,How do I report a bug in Moodle portal?,Use the feedback link at the bottom of the Moodle portal page to submit bug reports.
+General Queries,Where can I find the SharePoint API documentation?,Visit the developer portal's API section and search for SharePoint docs.
+Software Support,How to update Gmail to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Account & Access,How do I change my Zoom username?,"To change your Zoom username, go to your account settings and update your display name."
+Printing & Hardware,Why is my Canvas monitor flickering?,Check cable connections and update graphics drivers.
+File Storage,What is the storage quota for Moodle?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Printing & Hardware,Can I use USB on Slack kiosk computers?,USB ports are disabled for security; use network shares instead.
+Software Support,How to update Slack to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+File Storage,What is the storage quota for Slack?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Device Support,How do I pair a Bluetooth device on Teams?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Software Support,How to update SharePoint to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Network & Connectivity,"My Canvas bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+File Storage,How do I share a folder in Moodle?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+General Queries,How do I report a bug in Moodle portal?,Use the feedback link at the bottom of the Moodle portal page to submit bug reports.
+File Storage,How do I sync files offline in Gmail?,Enable offline mode in the settings to sync files to your device.
+Network & Connectivity,How do I whitelist websites in Slack network?,Submit a request via the IT portal with the URLs to whitelist.
+Printing & Hardware,Can I use USB on Jira kiosk computers?,USB ports are disabled for security; use network shares instead.
+Network & Connectivity,How do I whitelist websites in Zoom network?,Submit a request via the IT portal with the URLs to whitelist.
+Device Support,How to reset my Confluence device settings?,Go to Settings > System > Reset options and choose to reset device.
+Printing & Hardware,How do I scan directly to email on Moodle printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Device Support,How to reset my Gmail device settings?,Go to Settings > System > Reset options and choose to reset device.
+General Queries,Where can I find the Slack API documentation?,Visit the developer portal's API section and search for Slack docs.
+Network & Connectivity,How do I whitelist websites in Slack network?,Submit a request via the IT portal with the URLs to whitelist.
+General Queries,Where can I find the Canvas API documentation?,Visit the developer portal's API section and search for Canvas docs.
+Account & Access,"I forgot my Canvas password, how do I recover it?","To recover your Canvas password, visit the self-service portal and follow the recovery steps."
+General Queries,What is the maintenance schedule for Zoom services?,Check the IT status page for scheduled maintenance windows and notifications.
+Device Support,Why isn't my SharePoint camera detected?,Install the latest driver and enable camera permission in privacy settings.
+General Queries,What is the maintenance schedule for Teams services?,Check the IT status page for scheduled maintenance windows and notifications.
+Email & Communication,Why am I getting bounce-back emails from Slack?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Email & Communication,Why am I getting bounce-back emails from SharePoint?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+File Storage,How do I share a folder in SharePoint?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+General Queries,Where can I find the Jira API documentation?,Visit the developer portal's API section and search for Jira docs.
+General Queries,What is the maintenance schedule for SharePoint services?,Check the IT status page for scheduled maintenance windows and notifications.
+General Queries,How do I report a bug in Moodle portal?,Use the feedback link at the bottom of the Moodle portal page to submit bug reports.
+Email & Communication,Why am I getting bounce-back emails from SharePoint?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Device Support,Why isn't my Moodle camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Printing & Hardware,Can I use USB on Slack kiosk computers?,USB ports are disabled for security; use network shares instead.
+Printing & Hardware,Why is my Moodle monitor flickering?,Check cable connections and update graphics drivers.
+Email & Communication,Can I schedule emails in Confluence?,"Yes, go to the compose window in Confluence, click schedule send, and choose your date/time."
+Device Support,Why isn't my SharePoint camera detected?,Install the latest driver and enable camera permission in privacy settings.
+File Storage,How do I share a folder in Jira?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Device Support,Why isn't my Slack camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Printing & Hardware,Why is my Moodle monitor flickering?,Check cable connections and update graphics drivers.
+File Storage,How do I share a folder in SharePoint?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Device Support,Why isn't my SharePoint camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Software Support,How to update SharePoint to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+General Queries,How do I report a bug in Gmail portal?,Use the feedback link at the bottom of the Gmail portal page to submit bug reports.
+Account & Access,How do I change my SharePoint username?,"To change your SharePoint username, go to your account settings and update your display name."
+Printing & Hardware,Can I use USB on Gmail kiosk computers?,USB ports are disabled for security; use network shares instead.
+Printing & Hardware,Can I use USB on Zoom kiosk computers?,USB ports are disabled for security; use network shares instead.
+Network & Connectivity,Can I use Jira from off-campus?,Connect to VPN first or use the university's proxy service.
+Printing & Hardware,Why is my Moodle monitor flickering?,Check cable connections and update graphics drivers.
+Software Support,How to update Teams to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Printing & Hardware,How do I scan directly to email on Canvas printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Account & Access,How do I change my SharePoint username?,"To change your SharePoint username, go to your account settings and update your display name."
+File Storage,How do I sync files offline in Outlook?,Enable offline mode in the settings to sync files to your device.
+Software Support,How to update Teams to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Device Support,How do I pair a Bluetooth device on Outlook?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Printing & Hardware,How do I scan directly to email on SharePoint printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Software Support,Does Teams support dark mode?,"Yes, enable dark mode under Appearance in the Teams settings."
+Network & Connectivity,How do I whitelist websites in Jira network?,Submit a request via the IT portal with the URLs to whitelist.
+Device Support,How to reset my Canvas device settings?,Go to Settings > System > Reset options and choose to reset device.
+Email & Communication,How do I add a signature in Teams?,"Open settings in Teams, navigate to Signature, and enter your desired signature text."
+Account & Access,"I forgot my Zoom password, how do I recover it?","To recover your Zoom password, visit the self-service portal and follow the recovery steps."
+File Storage,How do I sync files offline in SharePoint?,Enable offline mode in the settings to sync files to your device.
+Device Support,Why isn't my Confluence camera detected?,Install the latest driver and enable camera permission in privacy settings.
+General Queries,Where can I find the SharePoint API documentation?,Visit the developer portal's API section and search for SharePoint docs.
+Device Support,Why isn't my SharePoint camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Account & Access,"My SharePoint account is disabled, how can I enable it?",Your SharePoint account can be re-enabled by contacting IT support or using the account management portal.
+Device Support,How to reset my Canvas device settings?,Go to Settings > System > Reset options and choose to reset device.
+Email & Communication,Why am I getting bounce-back emails from Teams?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Network & Connectivity,"My Slack bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+Software Support,"Moodle plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+File Storage,What is the storage quota for Confluence?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Account & Access,"I forgot my Canvas password, how do I recover it?","To recover your Canvas password, visit the self-service portal and follow the recovery steps."
+File Storage,What is the storage quota for Gmail?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Software Support,"Slack plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Software Support,Does Teams support dark mode?,"Yes, enable dark mode under Appearance in the Teams settings."
+Device Support,How to reset my Slack device settings?,Go to Settings > System > Reset options and choose to reset device.
+Network & Connectivity,Can I use Confluence from off-campus?,Connect to VPN first or use the university's proxy service.
+Software Support,Does Slack support dark mode?,"Yes, enable dark mode under Appearance in the Slack settings."
+Software Support,How to update SharePoint to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Network & Connectivity,"My Canvas bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+Printing & Hardware,Why is my Confluence monitor flickering?,Check cable connections and update graphics drivers.
+Printing & Hardware,Can I use USB on Confluence kiosk computers?,USB ports are disabled for security; use network shares instead.
+Software Support,How to update Teams to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+File Storage,How do I share a folder in Outlook?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+File Storage,How do I share a folder in Confluence?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Software Support,"Teams plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Device Support,How do I pair a Bluetooth device on Canvas?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Software Support,"Moodle plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Network & Connectivity,Can I use SharePoint from off-campus?,Connect to VPN first or use the university's proxy service.
+File Storage,How do I share a folder in Jira?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+File Storage,What is the storage quota for SharePoint?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Printing & Hardware,Can I use USB on Jira kiosk computers?,USB ports are disabled for security; use network shares instead.
+General Queries,Where can I find the Confluence API documentation?,Visit the developer portal's API section and search for Confluence docs.
+Email & Communication,How do I add a signature in Confluence?,"Open settings in Confluence, navigate to Signature, and enter your desired signature text."
+Printing & Hardware,How do I scan directly to email on Confluence printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Device Support,How to reset my Slack device settings?,Go to Settings > System > Reset options and choose to reset device.
+Software Support,How to update Slack to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Printing & Hardware,Why is my Gmail monitor flickering?,Check cable connections and update graphics drivers.
+Network & Connectivity,How do I whitelist websites in Confluence network?,Submit a request via the IT portal with the URLs to whitelist.
+Software Support,Does Canvas support dark mode?,"Yes, enable dark mode under Appearance in the Canvas settings."
+Software Support,Does Gmail support dark mode?,"Yes, enable dark mode under Appearance in the Gmail settings."
+Printing & Hardware,Can I use USB on Gmail kiosk computers?,USB ports are disabled for security; use network shares instead.
+Software Support,Does SharePoint support dark mode?,"Yes, enable dark mode under Appearance in the SharePoint settings."
+Device Support,How do I pair a Bluetooth device on Canvas?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Printing & Hardware,Why is my Teams monitor flickering?,Check cable connections and update graphics drivers.
+Software Support,Does Gmail support dark mode?,"Yes, enable dark mode under Appearance in the Gmail settings."
+Printing & Hardware,Why is my Outlook monitor flickering?,Check cable connections and update graphics drivers.
+Device Support,How do I pair a Bluetooth device on Zoom?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Printing & Hardware,How do I scan directly to email on Outlook printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+General Queries,What is the maintenance schedule for Teams services?,Check the IT status page for scheduled maintenance windows and notifications.
+Account & Access,How do I change my Zoom username?,"To change your Zoom username, go to your account settings and update your display name."
+General Queries,What is the maintenance schedule for Outlook services?,Check the IT status page for scheduled maintenance windows and notifications.
+General Queries,Where can I find the Confluence API documentation?,Visit the developer portal's API section and search for Confluence docs.
+Software Support,Does Canvas support dark mode?,"Yes, enable dark mode under Appearance in the Canvas settings."
+Software Support,Does Outlook support dark mode?,"Yes, enable dark mode under Appearance in the Outlook settings."
+Email & Communication,Can I schedule emails in Moodle?,"Yes, go to the compose window in Moodle, click schedule send, and choose your date/time."
+Network & Connectivity,"My Teams bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+Software Support,How to update Outlook to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+General Queries,What is the maintenance schedule for Outlook services?,Check the IT status page for scheduled maintenance windows and notifications.
+Software Support,How to update Gmail to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Software Support,Does Teams support dark mode?,"Yes, enable dark mode under Appearance in the Teams settings."
+Software Support,How to update Confluence to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+General Queries,What is the maintenance schedule for Slack services?,Check the IT status page for scheduled maintenance windows and notifications.
+File Storage,How do I share a folder in Jira?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Email & Communication,How do I add a signature in Jira?,"Open settings in Jira, navigate to Signature, and enter your desired signature text."
+Account & Access,"I forgot my Outlook password, how do I recover it?","To recover your Outlook password, visit the self-service portal and follow the recovery steps."
+Printing & Hardware,Why is my Confluence monitor flickering?,Check cable connections and update graphics drivers.
+General Queries,What is the maintenance schedule for Confluence services?,Check the IT status page for scheduled maintenance windows and notifications.
+Account & Access,"I forgot my Canvas password, how do I recover it?","To recover your Canvas password, visit the self-service portal and follow the recovery steps."
+Printing & Hardware,Why is my Zoom monitor flickering?,Check cable connections and update graphics drivers.
+Printing & Hardware,Can I use USB on SharePoint kiosk computers?,USB ports are disabled for security; use network shares instead.
+File Storage,What is the storage quota for Jira?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+File Storage,How do I share a folder in Outlook?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+General Queries,What is the maintenance schedule for Jira services?,Check the IT status page for scheduled maintenance windows and notifications.
+General Queries,How do I report a bug in Slack portal?,Use the feedback link at the bottom of the Slack portal page to submit bug reports.
+Device Support,How to reset my SharePoint device settings?,Go to Settings > System > Reset options and choose to reset device.
+Email & Communication,Why am I getting bounce-back emails from Jira?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Printing & Hardware,Can I use USB on Outlook kiosk computers?,USB ports are disabled for security; use network shares instead.
+General Queries,How do I report a bug in SharePoint portal?,Use the feedback link at the bottom of the SharePoint portal page to submit bug reports.
+General Queries,How do I report a bug in Confluence portal?,Use the feedback link at the bottom of the Confluence portal page to submit bug reports.
+General Queries,Where can I find the SharePoint API documentation?,Visit the developer portal's API section and search for SharePoint docs.
+Account & Access,How do I change my Outlook username?,"To change your Outlook username, go to your account settings and update your display name."
+General Queries,How do I report a bug in Jira portal?,Use the feedback link at the bottom of the Jira portal page to submit bug reports.
+Software Support,"Outlook plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Device Support,How to reset my Canvas device settings?,Go to Settings > System > Reset options and choose to reset device.
+Network & Connectivity,How do I whitelist websites in Jira network?,Submit a request via the IT portal with the URLs to whitelist.
+Email & Communication,How do I add a signature in Teams?,"Open settings in Teams, navigate to Signature, and enter your desired signature text."
+Device Support,How to reset my Teams device settings?,Go to Settings > System > Reset options and choose to reset device.
+Email & Communication,Can I schedule emails in Zoom?,"Yes, go to the compose window in Zoom, click schedule send, and choose your date/time."
+Network & Connectivity,"My Canvas bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+Network & Connectivity,How do I whitelist websites in Gmail network?,Submit a request via the IT portal with the URLs to whitelist.
+Account & Access,"I forgot my Moodle password, how do I recover it?","To recover your Moodle password, visit the self-service portal and follow the recovery steps."
+General Queries,How do I report a bug in Teams portal?,Use the feedback link at the bottom of the Teams portal page to submit bug reports.
+Account & Access,How do I change my Gmail username?,"To change your Gmail username, go to your account settings and update your display name."
+Account & Access,How do I change my Gmail username?,"To change your Gmail username, go to your account settings and update your display name."
+Email & Communication,Can I schedule emails in Moodle?,"Yes, go to the compose window in Moodle, click schedule send, and choose your date/time."
+Email & Communication,Why am I getting bounce-back emails from Teams?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Device Support,How do I pair a Bluetooth device on Teams?,"Open Bluetooth settings, search for devices, and select your device to pair."
+File Storage,How do I share a folder in Moodle?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Software Support,"Canvas plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Device Support,How do I pair a Bluetooth device on Jira?,"Open Bluetooth settings, search for devices, and select your device to pair."
+General Queries,What is the maintenance schedule for Gmail services?,Check the IT status page for scheduled maintenance windows and notifications.
+Network & Connectivity,How do I whitelist websites in Teams network?,Submit a request via the IT portal with the URLs to whitelist.
+General Queries,What is the maintenance schedule for Outlook services?,Check the IT status page for scheduled maintenance windows and notifications.
+Printing & Hardware,Can I use USB on Confluence kiosk computers?,USB ports are disabled for security; use network shares instead.
+Network & Connectivity,"My Jira bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+Software Support,Does Gmail support dark mode?,"Yes, enable dark mode under Appearance in the Gmail settings."
+General Queries,Where can I find the Confluence API documentation?,Visit the developer portal's API section and search for Confluence docs.
+Account & Access,"I forgot my SharePoint password, how do I recover it?","To recover your SharePoint password, visit the self-service portal and follow the recovery steps."
+Software Support,How to update Zoom to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Account & Access,"My Canvas account is disabled, how can I enable it?",Your Canvas account can be re-enabled by contacting IT support or using the account management portal.
+Software Support,"Teams plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Printing & Hardware,Can I use USB on Zoom kiosk computers?,USB ports are disabled for security; use network shares instead.
+File Storage,How do I sync files offline in Teams?,Enable offline mode in the settings to sync files to your device.
+Device Support,Why isn't my SharePoint camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Network & Connectivity,How do I whitelist websites in Slack network?,Submit a request via the IT portal with the URLs to whitelist.
+Email & Communication,How do I add a signature in SharePoint?,"Open settings in SharePoint, navigate to Signature, and enter your desired signature text."
+Device Support,Why isn't my Moodle camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Network & Connectivity,How do I whitelist websites in Confluence network?,Submit a request via the IT portal with the URLs to whitelist.
+File Storage,What is the storage quota for Confluence?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+General Queries,What is the maintenance schedule for Canvas services?,Check the IT status page for scheduled maintenance windows and notifications.
+Email & Communication,How do I add a signature in Slack?,"Open settings in Slack, navigate to Signature, and enter your desired signature text."
+Device Support,How do I pair a Bluetooth device on Canvas?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Device Support,How to reset my Teams device settings?,Go to Settings > System > Reset options and choose to reset device.
+Email & Communication,Why am I getting bounce-back emails from Teams?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Account & Access,"My Gmail account is disabled, how can I enable it?",Your Gmail account can be re-enabled by contacting IT support or using the account management portal.
+Account & Access,How do I change my Slack username?,"To change your Slack username, go to your account settings and update your display name."
+General Queries,How do I report a bug in Outlook portal?,Use the feedback link at the bottom of the Outlook portal page to submit bug reports.
+Device Support,How do I pair a Bluetooth device on Gmail?,"Open Bluetooth settings, search for devices, and select your device to pair."
+General Queries,Where can I find the Zoom API documentation?,Visit the developer portal's API section and search for Zoom docs.
+Software Support,Does Jira support dark mode?,"Yes, enable dark mode under Appearance in the Jira settings."
+General Queries,What is the maintenance schedule for Moodle services?,Check the IT status page for scheduled maintenance windows and notifications.
+Device Support,How to reset my Jira device settings?,Go to Settings > System > Reset options and choose to reset device.
+Printing & Hardware,Can I use USB on Zoom kiosk computers?,USB ports are disabled for security; use network shares instead.
+Device Support,How to reset my Teams device settings?,Go to Settings > System > Reset options and choose to reset device.
+Printing & Hardware,Why is my Teams monitor flickering?,Check cable connections and update graphics drivers.
+Device Support,Why isn't my Slack camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Software Support,How to update Teams to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Email & Communication,Can I schedule emails in Canvas?,"Yes, go to the compose window in Canvas, click schedule send, and choose your date/time."
+General Queries,Where can I find the Zoom API documentation?,Visit the developer portal's API section and search for Zoom docs.
+File Storage,How do I sync files offline in Moodle?,Enable offline mode in the settings to sync files to your device.
+General Queries,What is the maintenance schedule for Slack services?,Check the IT status page for scheduled maintenance windows and notifications.
+Account & Access,How do I change my Zoom username?,"To change your Zoom username, go to your account settings and update your display name."
+File Storage,What is the storage quota for Jira?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Device Support,How do I pair a Bluetooth device on Gmail?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Printing & Hardware,How do I scan directly to email on Canvas printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Email & Communication,How do I add a signature in Zoom?,"Open settings in Zoom, navigate to Signature, and enter your desired signature text."
+Device Support,How do I pair a Bluetooth device on Outlook?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Software Support,"Zoom plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+File Storage,How do I share a folder in Moodle?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Software Support,Does Outlook support dark mode?,"Yes, enable dark mode under Appearance in the Outlook settings."
+Account & Access,"I forgot my Jira password, how do I recover it?","To recover your Jira password, visit the self-service portal and follow the recovery steps."
+Software Support,How to update Canvas to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Software Support,How to update Jira to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Device Support,How to reset my Slack device settings?,Go to Settings > System > Reset options and choose to reset device.
+Email & Communication,How do I add a signature in Outlook?,"Open settings in Outlook, navigate to Signature, and enter your desired signature text."
+Device Support,How do I pair a Bluetooth device on Outlook?,"Open Bluetooth settings, search for devices, and select your device to pair."
+General Queries,What is the maintenance schedule for SharePoint services?,Check the IT status page for scheduled maintenance windows and notifications.
+Email & Communication,How do I add a signature in Canvas?,"Open settings in Canvas, navigate to Signature, and enter your desired signature text."
+Software Support,Does Confluence support dark mode?,"Yes, enable dark mode under Appearance in the Confluence settings."
+Account & Access,How do I change my Confluence username?,"To change your Confluence username, go to your account settings and update your display name."
+General Queries,Where can I find the Outlook API documentation?,Visit the developer portal's API section and search for Outlook docs.
+File Storage,How do I share a folder in Jira?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Printing & Hardware,How do I scan directly to email on Teams printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+General Queries,Where can I find the SharePoint API documentation?,Visit the developer portal's API section and search for SharePoint docs.
+Printing & Hardware,How do I scan directly to email on Moodle printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Printing & Hardware,Why is my Confluence monitor flickering?,Check cable connections and update graphics drivers.
+Email & Communication,How do I add a signature in SharePoint?,"Open settings in SharePoint, navigate to Signature, and enter your desired signature text."
+Printing & Hardware,How do I scan directly to email on Confluence printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Device Support,How to reset my Jira device settings?,Go to Settings > System > Reset options and choose to reset device.
+General Queries,How do I report a bug in Jira portal?,Use the feedback link at the bottom of the Jira portal page to submit bug reports.
+Account & Access,"My Canvas account is disabled, how can I enable it?",Your Canvas account can be re-enabled by contacting IT support or using the account management portal.
+File Storage,How do I share a folder in SharePoint?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Account & Access,How do I change my Slack username?,"To change your Slack username, go to your account settings and update your display name."
+Software Support,How to update Confluence to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Printing & Hardware,Why is my Gmail monitor flickering?,Check cable connections and update graphics drivers.
+Email & Communication,Can I schedule emails in Moodle?,"Yes, go to the compose window in Moodle, click schedule send, and choose your date/time."
+General Queries,Where can I find the Jira API documentation?,Visit the developer portal's API section and search for Jira docs.
+File Storage,How do I share a folder in Jira?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Email & Communication,Why am I getting bounce-back emails from Slack?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+File Storage,How do I sync files offline in Canvas?,Enable offline mode in the settings to sync files to your device.
+Software Support,Does SharePoint support dark mode?,"Yes, enable dark mode under Appearance in the SharePoint settings."
+Software Support,Does Confluence support dark mode?,"Yes, enable dark mode under Appearance in the Confluence settings."
+File Storage,How do I sync files offline in Teams?,Enable offline mode in the settings to sync files to your device.
+Account & Access,How do I change my Moodle username?,"To change your Moodle username, go to your account settings and update your display name."
+Software Support,"Outlook plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Account & Access,"My Slack account is disabled, how can I enable it?",Your Slack account can be re-enabled by contacting IT support or using the account management portal.
+Account & Access,How do I change my Gmail username?,"To change your Gmail username, go to your account settings and update your display name."
+Network & Connectivity,How do I whitelist websites in SharePoint network?,Submit a request via the IT portal with the URLs to whitelist.
+Device Support,How do I pair a Bluetooth device on Slack?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Printing & Hardware,Can I use USB on Outlook kiosk computers?,USB ports are disabled for security; use network shares instead.
+Software Support,Does Gmail support dark mode?,"Yes, enable dark mode under Appearance in the Gmail settings."
+Software Support,How to update Canvas to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+General Queries,What is the maintenance schedule for Zoom services?,Check the IT status page for scheduled maintenance windows and notifications.
+General Queries,How do I report a bug in Zoom portal?,Use the feedback link at the bottom of the Zoom portal page to submit bug reports.
+Email & Communication,Can I schedule emails in Outlook?,"Yes, go to the compose window in Outlook, click schedule send, and choose your date/time."
+Software Support,"Outlook plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Device Support,Why isn't my Confluence camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Network & Connectivity,"My Zoom bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+File Storage,What is the storage quota for Moodle?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Device Support,How do I pair a Bluetooth device on Jira?,"Open Bluetooth settings, search for devices, and select your device to pair."
+General Queries,What is the maintenance schedule for Teams services?,Check the IT status page for scheduled maintenance windows and notifications.
+Printing & Hardware,Can I use USB on Outlook kiosk computers?,USB ports are disabled for security; use network shares instead.
+File Storage,How do I share a folder in Confluence?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Network & Connectivity,How do I whitelist websites in Teams network?,Submit a request via the IT portal with the URLs to whitelist.
+Printing & Hardware,How do I scan directly to email on Canvas printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+File Storage,How do I share a folder in Slack?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Network & Connectivity,How do I whitelist websites in SharePoint network?,Submit a request via the IT portal with the URLs to whitelist.
+Email & Communication,How do I add a signature in Gmail?,"Open settings in Gmail, navigate to Signature, and enter your desired signature text."
+Device Support,Why isn't my Teams camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Device Support,Why isn't my Teams camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Software Support,Does Slack support dark mode?,"Yes, enable dark mode under Appearance in the Slack settings."
+General Queries,Where can I find the Confluence API documentation?,Visit the developer portal's API section and search for Confluence docs.
+Email & Communication,Can I schedule emails in Outlook?,"Yes, go to the compose window in Outlook, click schedule send, and choose your date/time."
+Network & Connectivity,Can I use Zoom from off-campus?,Connect to VPN first or use the university's proxy service.
+General Queries,How do I report a bug in Confluence portal?,Use the feedback link at the bottom of the Confluence portal page to submit bug reports.
+Network & Connectivity,Can I use Confluence from off-campus?,Connect to VPN first or use the university's proxy service.
+File Storage,How do I sync files offline in Confluence?,Enable offline mode in the settings to sync files to your device.
+Software Support,Does Slack support dark mode?,"Yes, enable dark mode under Appearance in the Slack settings."
+Email & Communication,Why am I getting bounce-back emails from Slack?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Email & Communication,Can I schedule emails in Moodle?,"Yes, go to the compose window in Moodle, click schedule send, and choose your date/time."
+Device Support,Why isn't my Zoom camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Software Support,How to update Jira to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Software Support,"Teams plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Device Support,Why isn't my Moodle camera detected?,Install the latest driver and enable camera permission in privacy settings.
+File Storage,How do I sync files offline in SharePoint?,Enable offline mode in the settings to sync files to your device.
+Printing & Hardware,How do I scan directly to email on Confluence printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+File Storage,How do I sync files offline in Teams?,Enable offline mode in the settings to sync files to your device.
+General Queries,How do I report a bug in Moodle portal?,Use the feedback link at the bottom of the Moodle portal page to submit bug reports.
+Printing & Hardware,Why is my Slack monitor flickering?,Check cable connections and update graphics drivers.
+Email & Communication,Can I schedule emails in Moodle?,"Yes, go to the compose window in Moodle, click schedule send, and choose your date/time."
+File Storage,How do I share a folder in Moodle?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+General Queries,How do I report a bug in Teams portal?,Use the feedback link at the bottom of the Teams portal page to submit bug reports.
+Software Support,How to update Gmail to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Device Support,How to reset my Outlook device settings?,Go to Settings > System > Reset options and choose to reset device.
+General Queries,Where can I find the SharePoint API documentation?,Visit the developer portal's API section and search for SharePoint docs.
+General Queries,What is the maintenance schedule for Canvas services?,Check the IT status page for scheduled maintenance windows and notifications.
+Account & Access,"My Slack account is disabled, how can I enable it?",Your Slack account can be re-enabled by contacting IT support or using the account management portal.
+File Storage,What is the storage quota for Zoom?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Printing & Hardware,Can I use USB on Slack kiosk computers?,USB ports are disabled for security; use network shares instead.
+Device Support,Why isn't my Gmail camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Software Support,How to update Canvas to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Account & Access,"My Confluence account is disabled, how can I enable it?",Your Confluence account can be re-enabled by contacting IT support or using the account management portal.
+Network & Connectivity,Can I use Canvas from off-campus?,Connect to VPN first or use the university's proxy service.
+File Storage,What is the storage quota for Canvas?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Account & Access,How do I change my Outlook username?,"To change your Outlook username, go to your account settings and update your display name."
+Printing & Hardware,How do I scan directly to email on Jira printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Device Support,How do I pair a Bluetooth device on Confluence?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Printing & Hardware,How do I scan directly to email on SharePoint printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Software Support,"Teams plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+General Queries,How do I report a bug in Zoom portal?,Use the feedback link at the bottom of the Zoom portal page to submit bug reports.
+File Storage,How do I sync files offline in Teams?,Enable offline mode in the settings to sync files to your device.
+Printing & Hardware,How do I scan directly to email on Teams printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Device Support,Why isn't my Moodle camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Printing & Hardware,How do I scan directly to email on Moodle printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Printing & Hardware,Can I use USB on SharePoint kiosk computers?,USB ports are disabled for security; use network shares instead.
+Email & Communication,Can I schedule emails in Jira?,"Yes, go to the compose window in Jira, click schedule send, and choose your date/time."
+Device Support,How do I pair a Bluetooth device on Confluence?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Software Support,"Outlook plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Network & Connectivity,"My Teams bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+Software Support,How to update Moodle to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Software Support,How to update Jira to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Device Support,How to reset my Zoom device settings?,Go to Settings > System > Reset options and choose to reset device.
+Software Support,Does SharePoint support dark mode?,"Yes, enable dark mode under Appearance in the SharePoint settings."
+Printing & Hardware,Why is my Jira monitor flickering?,Check cable connections and update graphics drivers.
+Device Support,Why isn't my Gmail camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Email & Communication,Why am I getting bounce-back emails from Teams?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Account & Access,How do I change my Canvas username?,"To change your Canvas username, go to your account settings and update your display name."
+Account & Access,"My Moodle account is disabled, how can I enable it?",Your Moodle account can be re-enabled by contacting IT support or using the account management portal.
+Account & Access,How do I change my Gmail username?,"To change your Gmail username, go to your account settings and update your display name."
+Device Support,How to reset my Moodle device settings?,Go to Settings > System > Reset options and choose to reset device.
+Printing & Hardware,Why is my Teams monitor flickering?,Check cable connections and update graphics drivers.
+Account & Access,"I forgot my Jira password, how do I recover it?","To recover your Jira password, visit the self-service portal and follow the recovery steps."
+Software Support,"Canvas plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+File Storage,How do I share a folder in Gmail?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+General Queries,Where can I find the SharePoint API documentation?,Visit the developer portal's API section and search for SharePoint docs.
+Account & Access,How do I change my Canvas username?,"To change your Canvas username, go to your account settings and update your display name."
+Account & Access,How do I change my Teams username?,"To change your Teams username, go to your account settings and update your display name."
+Device Support,Why isn't my Zoom camera detected?,Install the latest driver and enable camera permission in privacy settings.
+General Queries,Where can I find the Moodle API documentation?,Visit the developer portal's API section and search for Moodle docs.
+Printing & Hardware,Can I use USB on Moodle kiosk computers?,USB ports are disabled for security; use network shares instead.
+General Queries,How do I report a bug in Jira portal?,Use the feedback link at the bottom of the Jira portal page to submit bug reports.
+Account & Access,"I forgot my Zoom password, how do I recover it?","To recover your Zoom password, visit the self-service portal and follow the recovery steps."
+Network & Connectivity,Can I use Outlook from off-campus?,Connect to VPN first or use the university's proxy service.
+Account & Access,How do I change my Canvas username?,"To change your Canvas username, go to your account settings and update your display name."
+General Queries,How do I report a bug in SharePoint portal?,Use the feedback link at the bottom of the SharePoint portal page to submit bug reports.
+General Queries,Where can I find the Canvas API documentation?,Visit the developer portal's API section and search for Canvas docs.
+Printing & Hardware,Can I use USB on Slack kiosk computers?,USB ports are disabled for security; use network shares instead.
+Network & Connectivity,How do I whitelist websites in Teams network?,Submit a request via the IT portal with the URLs to whitelist.
+Account & Access,"I forgot my Teams password, how do I recover it?","To recover your Teams password, visit the self-service portal and follow the recovery steps."
+Software Support,How to update SharePoint to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Network & Connectivity,Can I use Outlook from off-campus?,Connect to VPN first or use the university's proxy service.
+Printing & Hardware,How do I scan directly to email on Moodle printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+General Queries,What is the maintenance schedule for Outlook services?,Check the IT status page for scheduled maintenance windows and notifications.
+Account & Access,"I forgot my Confluence password, how do I recover it?","To recover your Confluence password, visit the self-service portal and follow the recovery steps."
+Account & Access,How do I change my Gmail username?,"To change your Gmail username, go to your account settings and update your display name."
+Network & Connectivity,Can I use Moodle from off-campus?,Connect to VPN first or use the university's proxy service.
+General Queries,How do I report a bug in Moodle portal?,Use the feedback link at the bottom of the Moodle portal page to submit bug reports.
+File Storage,What is the storage quota for Outlook?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Account & Access,"My Zoom account is disabled, how can I enable it?",Your Zoom account can be re-enabled by contacting IT support or using the account management portal.
+Email & Communication,How do I add a signature in SharePoint?,"Open settings in SharePoint, navigate to Signature, and enter your desired signature text."
+Network & Connectivity,"My SharePoint bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+Software Support,"Jira plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Network & Connectivity,Can I use Teams from off-campus?,Connect to VPN first or use the university's proxy service.
+Device Support,How do I pair a Bluetooth device on Gmail?,"Open Bluetooth settings, search for devices, and select your device to pair."
+General Queries,Where can I find the Teams API documentation?,Visit the developer portal's API section and search for Teams docs.
+Email & Communication,How do I add a signature in Confluence?,"Open settings in Confluence, navigate to Signature, and enter your desired signature text."
+Software Support,How to update Canvas to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Account & Access,"My Confluence account is disabled, how can I enable it?",Your Confluence account can be re-enabled by contacting IT support or using the account management portal.
+Printing & Hardware,Why is my Jira monitor flickering?,Check cable connections and update graphics drivers.
+Device Support,How do I pair a Bluetooth device on Moodle?,"Open Bluetooth settings, search for devices, and select your device to pair."
+File Storage,What is the storage quota for Outlook?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+General Queries,Where can I find the Zoom API documentation?,Visit the developer portal's API section and search for Zoom docs.
+Network & Connectivity,Can I use Teams from off-campus?,Connect to VPN first or use the university's proxy service.
+Printing & Hardware,How do I scan directly to email on Confluence printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Email & Communication,Can I schedule emails in Zoom?,"Yes, go to the compose window in Zoom, click schedule send, and choose your date/time."
+Printing & Hardware,Can I use USB on Canvas kiosk computers?,USB ports are disabled for security; use network shares instead.
+File Storage,What is the storage quota for Teams?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Device Support,How do I pair a Bluetooth device on Canvas?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Email & Communication,How do I add a signature in Gmail?,"Open settings in Gmail, navigate to Signature, and enter your desired signature text."
+Network & Connectivity,Can I use Moodle from off-campus?,Connect to VPN first or use the university's proxy service.
+Network & Connectivity,Can I use Zoom from off-campus?,Connect to VPN first or use the university's proxy service.
+Printing & Hardware,Why is my Zoom monitor flickering?,Check cable connections and update graphics drivers.
+Software Support,"Moodle plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Printing & Hardware,Why is my Outlook monitor flickering?,Check cable connections and update graphics drivers.
+Account & Access,"I forgot my Gmail password, how do I recover it?","To recover your Gmail password, visit the self-service portal and follow the recovery steps."
+Software Support,Does Jira support dark mode?,"Yes, enable dark mode under Appearance in the Jira settings."
+Printing & Hardware,Can I use USB on SharePoint kiosk computers?,USB ports are disabled for security; use network shares instead.
+Email & Communication,Why am I getting bounce-back emails from Jira?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Software Support,"Zoom plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+General Queries,How do I report a bug in Confluence portal?,Use the feedback link at the bottom of the Confluence portal page to submit bug reports.
+Printing & Hardware,How do I scan directly to email on Slack printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+General Queries,How do I report a bug in Moodle portal?,Use the feedback link at the bottom of the Moodle portal page to submit bug reports.
+Email & Communication,How do I add a signature in Confluence?,"Open settings in Confluence, navigate to Signature, and enter your desired signature text."
+General Queries,What is the maintenance schedule for Gmail services?,Check the IT status page for scheduled maintenance windows and notifications.
+Printing & Hardware,Why is my Outlook monitor flickering?,Check cable connections and update graphics drivers.
+Printing & Hardware,How do I scan directly to email on Gmail printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Email & Communication,Why am I getting bounce-back emails from Zoom?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+General Queries,What is the maintenance schedule for SharePoint services?,Check the IT status page for scheduled maintenance windows and notifications.
+File Storage,What is the storage quota for Zoom?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Email & Communication,Why am I getting bounce-back emails from Teams?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Device Support,How do I pair a Bluetooth device on Confluence?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Account & Access,How do I change my SharePoint username?,"To change your SharePoint username, go to your account settings and update your display name."
+Network & Connectivity,"My Zoom bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+File Storage,How do I share a folder in Moodle?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Account & Access,"I forgot my Gmail password, how do I recover it?","To recover your Gmail password, visit the self-service portal and follow the recovery steps."
+General Queries,Where can I find the Confluence API documentation?,Visit the developer portal's API section and search for Confluence docs.
+Printing & Hardware,How do I scan directly to email on Jira printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+General Queries,Where can I find the Outlook API documentation?,Visit the developer portal's API section and search for Outlook docs.
+General Queries,How do I report a bug in Gmail portal?,Use the feedback link at the bottom of the Gmail portal page to submit bug reports.
+Email & Communication,Can I schedule emails in Gmail?,"Yes, go to the compose window in Gmail, click schedule send, and choose your date/time."
+General Queries,What is the maintenance schedule for Confluence services?,Check the IT status page for scheduled maintenance windows and notifications.
+Printing & Hardware,Can I use USB on Confluence kiosk computers?,USB ports are disabled for security; use network shares instead.
+General Queries,What is the maintenance schedule for Zoom services?,Check the IT status page for scheduled maintenance windows and notifications.
+Printing & Hardware,Can I use USB on Gmail kiosk computers?,USB ports are disabled for security; use network shares instead.
+Software Support,Does Gmail support dark mode?,"Yes, enable dark mode under Appearance in the Gmail settings."
+Account & Access,"My Zoom account is disabled, how can I enable it?",Your Zoom account can be re-enabled by contacting IT support or using the account management portal.
+Account & Access,"My Confluence account is disabled, how can I enable it?",Your Confluence account can be re-enabled by contacting IT support or using the account management portal.
+Email & Communication,Why am I getting bounce-back emails from Jira?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Device Support,Why isn't my Moodle camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Device Support,How do I pair a Bluetooth device on Moodle?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Device Support,How to reset my SharePoint device settings?,Go to Settings > System > Reset options and choose to reset device.
+Email & Communication,How do I add a signature in Confluence?,"Open settings in Confluence, navigate to Signature, and enter your desired signature text."
+General Queries,What is the maintenance schedule for Canvas services?,Check the IT status page for scheduled maintenance windows and notifications.
+Network & Connectivity,How do I whitelist websites in Confluence network?,Submit a request via the IT portal with the URLs to whitelist.
+Printing & Hardware,Can I use USB on SharePoint kiosk computers?,USB ports are disabled for security; use network shares instead.
+Account & Access,"I forgot my Outlook password, how do I recover it?","To recover your Outlook password, visit the self-service portal and follow the recovery steps."
+General Queries,What is the maintenance schedule for Slack services?,Check the IT status page for scheduled maintenance windows and notifications.
+Device Support,Why isn't my SharePoint camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Device Support,Why isn't my Teams camera detected?,Install the latest driver and enable camera permission in privacy settings.
+General Queries,What is the maintenance schedule for SharePoint services?,Check the IT status page for scheduled maintenance windows and notifications.
+Printing & Hardware,Can I use USB on Jira kiosk computers?,USB ports are disabled for security; use network shares instead.
+General Queries,Where can I find the Zoom API documentation?,Visit the developer portal's API section and search for Zoom docs.
+Printing & Hardware,Why is my Outlook monitor flickering?,Check cable connections and update graphics drivers.
+Device Support,Why isn't my Outlook camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Software Support,"Canvas plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+File Storage,How do I share a folder in SharePoint?,"Right-click the folder, choose Share, and enter the email addresses of recipients."
+Printing & Hardware,How do I scan directly to email on Zoom printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Account & Access,"My SharePoint account is disabled, how can I enable it?",Your SharePoint account can be re-enabled by contacting IT support or using the account management portal.
+Email & Communication,How do I add a signature in Canvas?,"Open settings in Canvas, navigate to Signature, and enter your desired signature text."
+Software Support,Does Canvas support dark mode?,"Yes, enable dark mode under Appearance in the Canvas settings."
+Account & Access,"I forgot my Slack password, how do I recover it?","To recover your Slack password, visit the self-service portal and follow the recovery steps."
+Software Support,Does Outlook support dark mode?,"Yes, enable dark mode under Appearance in the Outlook settings."
+Account & Access,How do I change my Teams username?,"To change your Teams username, go to your account settings and update your display name."
+Printing & Hardware,Why is my Moodle monitor flickering?,Check cable connections and update graphics drivers.
+Account & Access,"My Outlook account is disabled, how can I enable it?",Your Outlook account can be re-enabled by contacting IT support or using the account management portal.
+Network & Connectivity,Can I use Confluence from off-campus?,Connect to VPN first or use the university's proxy service.
+Email & Communication,How do I add a signature in Confluence?,"Open settings in Confluence, navigate to Signature, and enter your desired signature text."
+Software Support,"Confluence plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Software Support,"Moodle plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Email & Communication,Can I schedule emails in Canvas?,"Yes, go to the compose window in Canvas, click schedule send, and choose your date/time."
+Device Support,How do I pair a Bluetooth device on Moodle?,"Open Bluetooth settings, search for devices, and select your device to pair."
+General Queries,What is the maintenance schedule for Canvas services?,Check the IT status page for scheduled maintenance windows and notifications.
+Account & Access,"My Confluence account is disabled, how can I enable it?",Your Confluence account can be re-enabled by contacting IT support or using the account management portal.
+Email & Communication,Can I schedule emails in SharePoint?,"Yes, go to the compose window in SharePoint, click schedule send, and choose your date/time."
+Email & Communication,How do I add a signature in Slack?,"Open settings in Slack, navigate to Signature, and enter your desired signature text."
+General Queries,Where can I find the Canvas API documentation?,Visit the developer portal's API section and search for Canvas docs.
+Network & Connectivity,Can I use Moodle from off-campus?,Connect to VPN first or use the university's proxy service.
+Printing & Hardware,Can I use USB on Jira kiosk computers?,USB ports are disabled for security; use network shares instead.
+Software Support,Does Zoom support dark mode?,"Yes, enable dark mode under Appearance in the Zoom settings."
+Printing & Hardware,How do I scan directly to email on Moodle printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+General Queries,Where can I find the Moodle API documentation?,Visit the developer portal's API section and search for Moodle docs.
+Device Support,How to reset my Gmail device settings?,Go to Settings > System > Reset options and choose to reset device.
+Network & Connectivity,Can I use Canvas from off-campus?,Connect to VPN first or use the university's proxy service.
+Printing & Hardware,How do I scan directly to email on Zoom printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Network & Connectivity,Can I use Zoom from off-campus?,Connect to VPN first or use the university's proxy service.
+Email & Communication,Why am I getting bounce-back emails from SharePoint?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Printing & Hardware,How do I scan directly to email on Outlook printer?,"Access the scan menu, choose email, enter recipient, and start the scan."
+Device Support,How do I pair a Bluetooth device on Moodle?,"Open Bluetooth settings, search for devices, and select your device to pair."
+Software Support,Does Gmail support dark mode?,"Yes, enable dark mode under Appearance in the Gmail settings."
+Device Support,How do I pair a Bluetooth device on Jira?,"Open Bluetooth settings, search for devices, and select your device to pair."
+File Storage,What is the storage quota for Teams?,Each user gets 1 TB of storage by default; contact IT if more is needed.
+Software Support,"Confluence plugin not loading in browser, how to fix?","Clear browser cache, ensure plugin is enabled, and update your browser."
+Device Support,Why isn't my Teams camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Email & Communication,How do I add a signature in Zoom?,"Open settings in Zoom, navigate to Signature, and enter your desired signature text."
+Device Support,How to reset my Confluence device settings?,Go to Settings > System > Reset options and choose to reset device.
+Software Support,How to update Zoom to the latest version?,"Open the app, go to Help > Check for updates, and follow the prompts."
+Network & Connectivity,"My Jira bandwidth is slow, what can I do?",Check for background downloads or switch to a wired connection for stability.
+Printing & Hardware,Why is my Gmail monitor flickering?,Check cable connections and update graphics drivers.
+Email & Communication,Can I schedule emails in Zoom?,"Yes, go to the compose window in Zoom, click schedule send, and choose your date/time."
+Software Support,Does Zoom support dark mode?,"Yes, enable dark mode under Appearance in the Zoom settings."
+Account & Access,How do I change my Outlook username?,"To change your Outlook username, go to your account settings and update your display name."
+Email & Communication,Can I schedule emails in Canvas?,"Yes, go to the compose window in Canvas, click schedule send, and choose your date/time."
+Network & Connectivity,How do I whitelist websites in Slack network?,Submit a request via the IT portal with the URLs to whitelist.
+File Storage,How do I sync files offline in SharePoint?,Enable offline mode in the settings to sync files to your device.
+Account & Access,"My Teams account is disabled, how can I enable it?",Your Teams account can be re-enabled by contacting IT support or using the account management portal.
+Device Support,Why isn't my Zoom camera detected?,Install the latest driver and enable camera permission in privacy settings.
+Email & Communication,Why am I getting bounce-back emails from Jira?,Bounce-backs occur due to incorrect recipient address or full mailbox; verify the address.
+Printing & Hardware,Why is my Slack monitor flickering?,Check cable connections and update graphics drivers.
+Printing & Hardware,Can I use USB on SharePoint kiosk computers?,USB ports are disabled for security; use network shares instead.
+Account & Access,"My Gmail account is disabled, how can I enable it?",Your Gmail account can be re-enabled by contacting IT support or using the account management portal.
+File Storage,How do I sync files offline in Gmail?,Enable offline mode in the settings to sync files to your device.

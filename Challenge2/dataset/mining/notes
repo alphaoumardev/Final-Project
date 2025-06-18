@@ -1,0 +1,107 @@
+
+https://www.concordia.ca/it/services.html
+/html/body/div[2]/main/div/div/div/div[2]/div/div[2]/table/tbody/tr[1]/td[1]/strong/a
+<a href="/it/services/adobe-acrobat-staff.html" class="service-link alphabar-title" id="A">Adobe Acrobat for Faculty &amp; Staff</a>
+
+FAQ
+
+https://www.concordia.ca/it/services/adobe-acrobat-staff.html
+#content-main > div > div > div.col-12.col-lg-8 > div.faq_parsys.parsys
+#content-main > div > div > div.col-12.col-lg-8 > div.faq_parsys.parsys
+
+
+#content-main > div > div > div.col-12.col-lg-8 > div.faq_parsys.parsys > div:nth-child(3)
+question:
+
+//*[@id="content-main"]/div/div/div[1]/div[6]/div[2]/div/div/h3/button/div
+
+#content-main > div > div > div.col-12.col-lg-8 > div.faq_parsys.parsys > div:nth-child(2) > div > div > h3 > button > div > span
+#content-main > div > div > div.col-12.col-lg-8 > div.faq_parsys.parsys > div:nth-child(3) > div > div > h3 > button > div > span
+
+answer:
+#faq_parsys_accordion_panel_1161125723 > div > div > div > div > p > span
+
+
+
+
+#stanford
+base url
+https://stanford.service-now.com/it_services?id=kb_category&kb_category=414899b64fc043002c3860001310c7de&kb_id=a508e0f313325e00fe393cc12244b0dc
+
+categories for each category get it childrens which are the question(title) and response(content) in this same url
+xpath:
+//*[@id="x598c0ff0d7101200a9addd173e24d446"]/div/div[2]/a[17]/span
+selector:
+#x598c0ff0d7101200a9addd173e24d446 > div > div.list-group > a:nth-child(3) > span
+#x598c0ff0d7101200a9addd173e24d446 > div > div.list-group > a:nth-child(2) > span
+
+questions:
+
+#xb6f5c370d7000200a9ad1e173e24d498 > div > div > ul > li:nth-child(1) > h4 > a
+
+answer:
+
+#xb6f5c370d7000200a9ad1e173e24d498 > div > div > ul > li:nth-child(1) > p > span.ng-binding
+
+I want the data be in csv (category, questions, answers)
+
+#calgary
+
+category
+#ka > div.panel-body.m-b-lg.wrapper-lg > div.kb_article.ng-binding.ng-scope > h2:nth-child(15) > span
+
+question:
+#ka > div.panel-body.m-b-lg.wrapper-lg > div.kb_article.ng-binding.ng-scope > h3:nth-child(17) > span
+
+answer:
+#ka > div.panel-body.m-b-lg.wrapper-lg > div.kb_article.ng-binding.ng-scope > p:nth-child(18) > span
+
+#ontario Tech
+
+category:
+#page-content > div:nth-child(3) > h2:nth-child(1)
+#page-content > div:nth-child(3) > h2:nth-child(4)
+#page-content > div:nth-child(3) > h2:nth-child(7)
+#page-content > div:nth-child(3) > h2:nth-child(10)
+#page-content > div:nth-child(3) > h2:nth-child(13)
+
+questions:
+#accordion1-label
+#accordion2-label
+...
+
+answer:
+#accordion1
+#accordion2
+#accordion3
+...
+
+UBC
+https://universitycounsel.ubc.ca/homepage/faqs/
+category:
+GEneral FAQ
+
+question:
+#post-56 > div > div:nth-child(3) > div.accordion-heading > a,  class"accordion-toggle accordion-style1 focus" as an accordion
+
+answer:
+#\31 -where-do-i-deliver-documents-0 > div > p
+#\31 -where-do-i-deliver-documents-0 > div > p:nth-child(1)
+
+queens
+https://queensu.service-now.com/esm?id=kb_search
+category:
+General FAQ
+
+question:
+#xa9e394361b9106908533dd7edd4bcbd5 > div > div > div.summary-templates > div.kb-template.ng-scope > div:nth-child(2) > div > div > div:nth-child(1) > div > div.kb-info > div:nth-child(2) > h3 > a
+
+answer:
+#xa9e394361b9106908533dd7edd4bcbd5 > div > div > div.summary-templates > div.kb-template.ng-scope > div:nth-child(2) > div > div > div:nth-child(1) > div > div.kb-info > div:nth-child(2) > div > div.kb-description.ng-binding
+
+Get all the QA until the last one. Note scroll down to get more
+
+
+
+nmap -sS -sV -p10021 10.10.222.215
+hydra -l eddie -P /usr/share/wordlists/rockyou.txt ftp://10.10.15.201:10021
